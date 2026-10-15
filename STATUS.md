@@ -9,7 +9,7 @@
 
 ## Waiting on the author
 1. His read of draft v1, and his notes.
-2. Whether v2 should apply the review's top-3 fixes (AI-draft echoes, book-report density, mechanical tics and Zamir register) as well as his notes.
+2. Author chose (2026-10-14) to read v1 as it stands before any revision. v2 will combine his notes with whichever review fixes he endorses.
 
 ## Next planned action
 Run `record-feedback` on his notes, then `revise-chapter prologue` → `draft-v2.md`, then `editorial-review` v2. Do not start Chapter 1.
