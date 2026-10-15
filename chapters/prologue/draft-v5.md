@@ -102,7 +102,7 @@ The water had changed too. At the entrance it had still carried a little grit, s
 
 He crawled the last stretch and came up into the chamber.
 
-It was not large. His lamp found the far wall at perhaps eight meters and the ceiling just above his head, and the floor was under water deep enough to reach his thighs when he stood. The walls were black limestone, wet and gleaming. The water lay on the floor so still and so clear that for a moment the room seemed to have no floor at all, only black rock going down and down under the light.
+It was not large. His lamp found the far wall at perhaps eight meters and the ceiling just above his head, and the floor was under water deep enough to reach his thighs when he stood. The walls were black limestone, wet and gleaming, with a tidemark of dried flood mud running around them at shoulder height. On a ledge above it some spring of years ago had left a snarl of sticks and a crushed plastic bottle. The water lay on the floor so still and so clear that for a moment the room seemed to have no floor at all, only black rock going down and down under the light.
 
 Alina came up beside him, breathing hard. Her lamp swung across his and away, and that was how they both saw it.
 
@@ -184,7 +184,7 @@ The vending machine on the landing had been dead since February. He ate a packet
 
 He typed *don't know yet* and then sat looking at the words until the screen went dark.
 
-The metals came through a little after half past eleven. Since September he had sampled more than two hundred streams and seeps in this district, and every one of them told the same story in its numbers: the rock it had passed through, and on top of the rock, the poison the old Soviet mines had left behind, the heavy metals that his whole thesis was about following underground. These two bottles told no story at all. There was no poison in them. There was no rock in them either. This was water that had come out of a limestone mountain with no limestone in it, like tea with no tea.
+The metals came through a little after half past eleven. Since September he had sampled more than two hundred streams and seeps in this district, and every one of them told the same story in its numbers: the rock it had passed through, and on top of the rock, the poison the old Soviet workings had left behind, the heavy metals he had spent all year following underground. These two bottles told no story at all. There was no poison in them. There was no rock in them either. This was water that had come out of a limestone mountain with no limestone in it, like tea with no tea.
 
 The last test was the one that tells you where water comes from. Rain and snow carry a faint signature of where and when they fell, and Timur knew where on his chart the water of this valley ought to land. These two landed nowhere near it, and nowhere near anything else he had ever measured. And they matched each other. One had come from the channel outside and the other from over the pale stone, minutes and meters apart, and they agreed with each other more closely than the machine was supposed to be able to measure, run after run. He tested the lab's reference sample to make sure the machine was behaving. The reference wobbled a little from run to run, as it always did. His samples didn't wobble at all.
 
