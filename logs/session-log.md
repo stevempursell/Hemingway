@@ -35,3 +35,8 @@
 - Author on v1: bad hook; the science needs "a course on meteorology"; it must be accessible yet accurate; agrees with the editorial plan. Supplied opening lines and the "Safe" gag. Ruled that **lines he gives may be used** ("don't leave good writing on the floor"). Rules, skills, and memory updated.
 - Wrote `revision-plan-v2.md` and drafted v2 in 3 scenes: 5,161 words, verified. The 6 AI echoes are gone (mechanical check). Editorial review v2 done.
 - Open: his review of v2; whether "Safe" has a later payoff.
+
+## 2026-10-14 — Session 1 (continued): Prologue v3
+
+- Author on v2: I stacked his two alternative map sketches ("can't use both"; "you should have realized that as writing"). Recorded as Universal: usable is not mandatory; choose among alternatives; check knowledge logic. Review skill and CLAUDE.md updated.
+- v3: s01 rebuilt on the "Safe" version only, with a timeline fix. 5,099 words. Delta review written. s02 and s03 unchanged.

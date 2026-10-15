@@ -87,4 +87,16 @@ Source: the author's setup brief. These are standing instructions, not critiques
 
 **Applied:** v2 s01 opening rebuilt on his model paragraph, with the "Safe" gag and the "famed professor… I think" line. CLAUDE.md §3 and narrative-principles §3 were rewritten. The writer had over-applied the "examples are principles" rule; that was a mistake.
 
+### 2026-10-14 — Prologue draft v2
+
+> "See I worried about giving writing examples. You can't use both the "you're using his map again" and the "what is this a second hand map" bits and more importantly: you should have realized that as writing."
+
+| Note | Class | In practice | When it doesn't apply |
+|---|---|---|---|
+| **Usable isn't mandatory.** His lines are material under editorial judgment, the same as anything I write | Universal | When he offers alternatives ("Or…"), **choose one**, or synthesize deliberately. Never stack them. Use only what serves the scene | n/a |
+| **Check merged material for logic, especially what each character knows** | Universal | v2 had Alina know the map was Khasanov's ("his map again") and then ask whether it was secondhand. A writer should catch that on rereading. Also, two margin gags doing one job is redundancy | n/a |
+| His underlying worry: the writer swings between extremes (refusing his lines, then pasting all of them) instead of judging | Universal (process) | Judge each line on its merits. No mechanical rule substitutes for reading as a writer | n/a |
+
+**Review failure:** editorial-review-v2 did not catch this. Added a character-knowledge logic check and an "author-material judgment" check to the `editorial-review` skill.
+
 **RECURRING** (with the 2026-10-14 "not a book report" note): technical density is now flagged twice. Updated `narrative-principles.md` §6 to put accessibility first, and added a lay-reader check to `editorial-review` §6.
