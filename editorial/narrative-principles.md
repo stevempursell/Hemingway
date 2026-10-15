@@ -21,6 +21,7 @@ The writer knows the whole series. The characters don't. Before every scene, ans
 - The plot can unfold *alongside* conversation. It doesn't have to be the subject of it.
 - **No conspicuous setup.** Dialogue doesn't foreshadow. Characters don't introduce concepts just because the bible contains them. Nobody explains why a person, place, object, or historical event matters. Details whose significance comes later get no spotlight now.
 - Foreshadowing is subtle and arises from circumstance. A strange observation can pass without anyone declaring what it means. **Let significance accumulate.**
+- **Knowing a detail is not an obligation to show it.** Facts from the plan, the bible, or the author's answers (gear, procedures, backstory, logistics) appear on the page only when the POV character would notice or use them *in that moment*. Never write a passage to justify a detail's presence or to show the research. Never explain what an object is for before it matters. Plans settle logistics so the prose can leave them out.
 
 ## 3. Examples are principles
 Example dialogue, illustrative scenarios, and spontaneous suggestions from the author **illustrate a principle**. They never go into the draft unless he explicitly designates them as manuscript text. Learn the principle, then write original prose. (This applies to the beat sheets' sample lines too.)

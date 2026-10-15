@@ -1,15 +1,15 @@
 # STATUS
 
-**Updated:** 2026-10-14 (session 1: setup)
+**Updated:** 2026-10-14 (session 1)
 
 - **Current chapter:** Prologue, "The White Vein"
-- **Phase:** A (Preparation). Plan v1 written. **AWAITING AUTHOR APPROVAL**
+- **Phase:** D (Author review). Draft v1 and editorial review v1 are done. **AWAITING AUTHOR FEEDBACK**
 - **Latest approved chapter:** none
-- **Drafts:** none (the existing Google Doc prologue is held in `source/existing-prose/` as a reference, unapproved, authorship unconfirmed)
+- **Drafts:** `chapters/prologue/draft-v1.md`: 5,844 words (target about 5,100). Notes in `draft-v1-notes.md`. Review in `editorial-review-v1.md`
 
 ## Waiting on the author
-1. Approve or amend `chapters/prologue/outline.md`, and answer P1–P11 (defaults are offered, so "defaults" is a valid answer).
-2. Non-blocking: Q-V1–Q-V5 and G1 in `editorial/open-decisions.md`.
+1. His read of draft v1, and his notes.
+2. Whether v2 should apply the review's top-3 fixes (AI-draft echoes, book-report density, mechanical tics and Zamir register) as well as his notes.
 
 ## Next planned action
-Once the plan is approved: record his answers (canon-decisions and feedback), then run `draft-chapter prologue` to write `chapters/prologue/draft-v1.md`, then `editorial-review`, then present both.
+Run `record-feedback` on his notes, then `revise-chapter prologue` → `draft-v2.md`, then `editorial-review` v2. Do not start Chapter 1.

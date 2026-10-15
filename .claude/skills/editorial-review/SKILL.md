@@ -17,7 +17,7 @@ For each criterion, give a verdict (Strong / Adequate / Needs work / Failing), t
 
 1. **Character authenticity and dialogue naturalism.** Does each line sound like *this* person, today, knowing only what they know? Flag lines that serve the author's plan rather than the character: thematic statements, foreshadowing chatter, explanations no one would say aloud.
 2. **Scene development and pacing.** Real scenes, or an expanded synopsis? Where does it rush? Where does it sag? Is the incidental material alive or filler?
-3. **Exposition and premature revelation.** Anything explained that should stay unexplained? Any detail flagged as significant? Any bible knowledge leaking through POV?
+3. **Exposition and premature revelation.** Anything explained that should stay unexplained? Any detail flagged as significant? Any bible knowledge leaking through POV? **Justification creep:** quote every passage that exists to justify a detail (gear, how a character knows something, what an object is for) rather than because the moment needs it. Planned details are permissions, not obligations.
 4. **Continuity and canon compliance.** Run `continuity-check`. List every deviation from canon and every new invented detail.
 5. **Prose rhythm and readability.** Sentence variety. Paragraph shape. Is it enjoyable line by line? Quote the three weakest sentences and the three strongest.
 6. **Scientific and physical plausibility.** Instruments, chemistry, hydrology, caving, bodies in cold water, timing. What would a hydrologist or caver wince at?

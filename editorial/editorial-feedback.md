@@ -33,6 +33,17 @@ Source: the author's setup brief. These are standing instructions, not critiques
 | **Don't ask the author about procedural or plausibility minutiae.** Solving them quietly is the writer's job | Universal (process) | Ask only questions that change story, character, canon, or tone. Settle gear, instruments, logistics, and physics myself, and note them in the draft notes | When a technical choice would change a plot event or establish canon later chapters depend on |
 | **On the page, technical detail serves tension, never an inventory.** The prologue is "a tense story intro," not a report | Project (and likely Universal) | Gear, readings, and procedure appear only as quick, lived detail in the middle of action. No itemized kit and no lingering explanation | Brief procedural texture that *creates* tension (a reading that's wrong, a line marker swinging) is welcome |
 
+## 2026-10-14 — Clarification: specified details are not obligations
+
+> "More importantly than plausibility checks, I'm worried if I tell you he has two lines and three neoprene bags you'll feel obligated to use them to justify the knowledge and definition. And that's a logical fallacy the prompt implies you avoid."
+
+| Lesson | Class | In practice | When it doesn't apply |
+|---|---|---|---|
+| **Knowing a detail (from the plan, the bible, or an author answer) is not a reason to put it on the page.** Never write a passage whose job is to justify a detail's presence, or to show the writer did the homework | Universal | For every concrete detail in a draft, ask: *would this character notice or mention it right now, and does the moment need it?* If it's there only because it was decided, cut it. Plans may settle logistics; prose uses them only when the scene would surface them anyway | Beat-required events (e.g. the line markers drifting) stay, but without an explanatory setup paragraph |
+| Related: no "Chekhov's inventory." Don't plant items early just so a later use looks earned, and don't explain an item's function before it matters | Universal | A line marker can simply be clipped on. Its meaning arrives when it swings sideways | n/a |
+
+**Applied immediately (2026-10-14, during the prologue v1 draft):** cut the neoprene-justification paragraph and the cave-line explainer from scenes 1–2, and trimmed the cave-breathing mechanics. Updated `narrative-principles.md` §2 and the `draft-chapter` and `editorial-review` skills.
+
 ## Draft critiques
 
 *(none yet)*
