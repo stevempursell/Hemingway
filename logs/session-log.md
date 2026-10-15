@@ -40,3 +40,8 @@
 
 - Author on v2: I stacked his two alternative map sketches ("can't use both"; "you should have realized that as writing"). Recorded as Universal: usable is not mandatory; choose among alternatives; check knowledge logic. Review skill and CLAUDE.md updated.
 - v3: s01 rebuilt on the "Safe" version only, with a timeline fix. 5,099 words. Delta review written. s02 and s03 unchanged.
+
+## 2026-10-14 — Session 1 (continued): Prologue v4
+
+- Author on v3: the cake paragraph relocates the scene ("from the fence to inside the car"), and the numerology. Recorded as Universal (background stays in the room; specificity is chosen, not accumulated). RECURRING inventory pattern. Principles and review skill updated.
+- v4: s01 background moved into the fence exchange, numbers stripped; one s03 two-number sentence fixed. 5,047 words.

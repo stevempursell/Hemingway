@@ -99,4 +99,15 @@ Source: the author's setup brief. These are standing instructions, not critiques
 
 **Review failure:** editorial-review-v2 did not catch this. Added a character-knowledge logic check and an "author-material judgment" check to the `editorial-review` skill.
 
+### 2026-10-14 — Prologue draft v3
+
+> "The "the cake" paragraph is awkward. It feels like we move from the fence to inside the car. Also what's with the numerology? "Her grandmother turned seventy tonight, and thirty relatives would be packed into a ninth-floor flat by eight o'clock.""
+
+| Note | Class | In practice | When it doesn't apply |
+|---|---|---|---|
+| **Backstory must not relocate the scene.** A paragraph that hops to another place (the car, the flat) breaks the moment | Universal | Deliver background through what's happening *here*: a line of dialogue, a thought prompted by something in view. If it can't be anchored, cut it | Deliberate, framed memory (a clear flashback) is different |
+| **No numerology.** Don't stack numeric specifics. Seventy, thirty, ninth, eight in one sentence reads as an inventory | Universal | Use at most one number per beat, and only when the number itself is the point (the 10/15-minute haggle and "twelve minutes. I counted" are the point). Otherwise use plain words ("half my family," "a long drive") | Technical or plot moments where the exact figure carries the tension |
+
+**RECURRING (third time today):** inventory-style specificity. Book report → gear inventory → numbers. Underlying lesson: **specificity is chosen, not accumulated.** Added to `narrative-principles.md` §4 and to the reviewer's mechanical counts.
+
 **RECURRING** (with the 2026-10-14 "not a book report" note): technical density is now flagged twice. Updated `narrative-principles.md` §6 to put accessibility first, and added a lay-reader check to `editorial-review` §6.
