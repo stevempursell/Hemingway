@@ -30,3 +30,5 @@
 | CM7 | Deka's Shulganite extraction is an **accelerant** of the existing failure | Q&A: "Accelerant" | Books 1–4; bible §I |
 | CM8 | Biological effects: **the water does it**, and it metaphysically connects people to the Resonator's healing nature. **Never needs to be stated explicitly** | Q&A: "The water does it and it metaphysically connects people to the healing nature of the resonant. This does not ever need to be explicitly stated." | Leena; scar; P-B |
 | CM9 | The radioactive Soviet legacy does **not** appear in the prologue yet. It stays a proposal | Q&A: "Not yet" | prologue; P-A |
+| CM10 | Healing is **real but bounded**: subtle, never fixes everything, **weakens as the Resonator fails** (usable to foreshadow the failure) | Q&A: "Yes, bounded" | series; P-B; Leena |
+| CM11 | Prologue beat plan v2 approved; edits made in place in v5 | Q&A: "Approve, make edits" | prologue |

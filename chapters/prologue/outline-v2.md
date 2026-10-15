@@ -1,6 +1,6 @@
 # Prologue — "The White Vein" — Beat Plan v2 (causal-model update)
 
-**Status: AWAITING AUTHOR REVIEW. No draft changes until authorized.**
+**Status: APPROVED by the author 2026-10-15 ("Approve, make edits"). Applied in place to `draft-v5.md`.**
 Supersedes nothing in `outline.md` v1 except where noted. Read with `editorial/series-causal-model.md`.
 Current draft: `draft-v5.md`. If approved, these changes are small enough to make **in place in v5** (versioning rule of 2026-10-15). No new draft number.
 

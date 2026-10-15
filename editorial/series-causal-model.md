@@ -26,9 +26,9 @@ The novel may connect these threads in other ways later. It must **never** colla
 7. **The Vodyanoy** stays canon as the Resonator's **automated protective response to intrusion**. Frame it as a reflex, never as vengeance and never as a response to Soviet harm.
 8. **Accounting rule:** any explanation must account for its consequences. If something is removed from water, the story eventually has to consider where it goes (OPEN, below). "Purification" is never a universal fix.
 
-## Writer's reading (needs the author's confirmation)
+## Confirmed by the author (was writer's reading)
 
-- **W1. The healing is real but bounded.** The brief also forbids an omnipotent system that "can heal any damage without limits." The existing narrative rule (retired-Resonant doc: biological effects "subtle and statistical… no instant healing") is therefore kept, and the healing is **limited and weakening as the strain grows (T3)**. That's also how the healing can foreshadow the failure. *If the author intends stronger healing, this line changes.*
+- **W1 (CONFIRMED 2026-10-15, "Yes, bounded"). The healing is real but bounded.** The brief also forbids an omnipotent system that "can heal any damage without limits." The existing narrative rule (retired-Resonant doc: biological effects "subtle and statistical… no instant healing") is therefore kept, and the healing is **limited and weakening as the strain grows (T3)**. That's also how the healing can foreshadow the failure.
 
 ## Proposed (not canon)
 
@@ -46,7 +46,7 @@ The novel may connect these threads in other ways later. It must **never** colla
 | O2 | The larger, longer-running cause of the failure (T4). **Do not develop without the author** |
 | O3 | Whether P-A becomes canon, its source (secret project, PNE-type event, mine or processing waste), and whether it connects to Zamir's father's "secret hydrological projects" |
 | O4 | Where P-B goes in Book 1, and whose POV |
-| O5 | Confirm W1 (bounded healing) |
+| O5 | ~~Confirm W1~~ CLOSED 2026-10-15: bounded and weakening |
 
 ## Forbidden implications (validation checklist, run on every plan, draft, and canon edit)
 

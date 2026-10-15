@@ -42,7 +42,7 @@ Full wording and defaults are in `chapters/prologue/outline.md` §8.
 | O2 | The larger cause of the failure | OPEN (do not develop without author) |
 | O3 | Radioactive legacy: canon? source? link to Zamir's father? | OPEN |
 | O4 | Burned-valley tributary: Book 1 slot and POV | OPEN |
-| O5 | Confirm the writer's reading that the healing is bounded and weakening | OPEN |
+| O5 | Confirm the writer's reading that the healing is bounded and weakening | CLOSED 2026-10-15: yes, bounded |
 
 ## Canon gaps for later chapters (not blocking the prologue)
 
