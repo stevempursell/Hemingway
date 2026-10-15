@@ -26,9 +26,9 @@ Alina was looking at the broken fence. "We're not supposed to be past that. You 
 
 "Noted."
 
-He went down the bank mostly on his backside, one hand raking through wet fern for something to hold, the other keeping the sample case up out of the mud. When his boots hit the rock ledge at the bottom he was already laughing, because there it was, exactly where the map had promised, the whole spring thaw roaring through the cut, and at the far end an overhang caged in rusted mesh, with the grated mouth of an old survey tunnel beside it, where the water went into the mountain and did not come out.
+He went down the bank mostly on his backside, one hand raking through wet fern for something to hold, the other keeping the sample case up out of the mud. When his boots hit the rock ledge at the bottom he was already laughing, because there it was, exactly where the map had promised: the whole spring thaw roaring through the cut, an overhang caged in rusted mesh at the far end where the flood went into the mountain and didn't come out, and beside it the grated mouth of an old survey tunnel, bleeding a thin orange stain into the current. The stain was what he had come for. Soviet survey crews had tunneled under half the ridges in this district and left the tunnels to drain into whatever ran past, and following where that drainage went underground was the whole of his thesis.
 
-He dropped to his knees on the ledge and pulled the probe out of the case, and that was when he saw the strip of clear water.
+He dropped to his knees on the ledge and pulled the probe out of the case to start on the stain, and that was when he saw the strip of clear water.
 
 It came in from the side, out of a dark gap behind a fallen slab of rock, and joined the flood at an angle. The flood was the color of wet cement. The strip was clear as window glass, so clear that he could see the stones on the bottom under it, every edge of them, as if there were no water there at all. And it would not mix. It ran on beside the gray current for the better part of a meter with a clean edge to it, like oil sitting in water, except that it was water sitting in water, until the flood finally tore it apart.
 
