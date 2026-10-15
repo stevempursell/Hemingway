@@ -23,8 +23,10 @@ The writer knows the whole series. The characters don't. Before every scene, ans
 - Foreshadowing is subtle and arises from circumstance. A strange observation can pass without anyone declaring what it means. **Let significance accumulate.**
 - **Knowing a detail is not an obligation to show it.** Facts from the plan, the bible, or the author's answers (gear, procedures, backstory, logistics) appear on the page only when the POV character would notice or use them *in that moment*. Never write a passage to justify a detail's presence or to show the research. Never explain what an object is for before it matters. Plans settle logistics so the prose can leave them out.
 
-## 3. Examples are principles
-Example dialogue, illustrative scenarios, and spontaneous suggestions from the author **illustrate a principle**. They never go into the draft unless he explicitly designates them as manuscript text. Learn the principle, then write original prose. (This applies to the beat sheets' sample lines too.)
+## 3. Author lines vs. illustrations
+- **Lines he gives in chat are usable** (2026-10-14: "If I give you lines you can use them."). Weave them in with light continuity edits (POV naming, tense), and log them in the draft notes.
+- **Illustrations are not text:** anything he presents as an example of a principle, and the beat sheets' sample lines (confirmed as illustrations, P2). Learn the principle, then write original prose.
+- Don't over-correct. Rejecting his good lines out of caution is as much a failure as pasting an illustration. If unsure, use it and flag it.
 
 ## 4. Prose and reading experience
 - Engaging commercial fiction for adult readers: clarity, immersion, character, momentum.
@@ -49,6 +51,8 @@ Example dialogue, illustrative scenarios, and spontaneous suggestions from the a
 - Over-precise stage directions for every gesture.
 
 ## 6. Scientific and physical honesty
+- **Accessible first (author, 2026-10-14):** the science has to land for a reader who knows nothing about water, chemistry, caves, or weather. The reader should feel what a finding *means* (impossible, wrong, dangerous) without needing to know how it was measured. Translate every technical fact into a plain consequence the POV character feels, or cut it. Numbers, units, and instrument names are rare spice, not structure.
+- **Still accurate:** nothing on the page may be wrong for a specialist. Accuracy lives under the prose, in what's chosen and how characters react, not in explanation.
 - Hard SF: instruments, chemistry, caving, cold-water physiology, and travel times should survive scrutiny from a specialist. When the science has to bend (the Resonator), the *observation* stays precise even if the explanation is missing.
 - The Resonator never explains itself, communicates, or becomes anthropomorphic. Its biological effects are subtle and statistical: no instant healing, no fountain of youth.
 

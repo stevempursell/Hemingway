@@ -3,13 +3,12 @@
 **Updated:** 2026-10-14 (session 1)
 
 - **Current chapter:** Prologue, "The White Vein"
-- **Phase:** D (Author review). Draft v1 and editorial review v1 are done. **AWAITING AUTHOR FEEDBACK**
+- **Phase:** D (Author review). Draft v2 and editorial review v2 are done. **AWAITING AUTHOR FEEDBACK**
 - **Latest approved chapter:** none
-- **Drafts:** `chapters/prologue/draft-v1.md`: 5,844 words (target about 5,100). Notes in `draft-v1-notes.md`. Review in `editorial-review-v1.md`
+- **Drafts:** `draft-v1.md` (5,844 words, superseded) and `draft-v2.md` (5,161 words, current). Notes and reviews for each are alongside them.
 
 ## Waiting on the author
-1. His read of draft v1, and his notes.
-2. Author chose (2026-10-14) to read v1 as it stands before any revision. v2 will combine his notes with whichever review fixes he endorses.
+1. His read of draft v2, and his notes. Also whether "Safe" on Khasanov's map has a reason later chapters should honor.
 
 ## Next planned action
-Run `record-feedback` on his notes, then `revise-chapter prologue` → `draft-v2.md`, then `editorial-review` v2. Do not start Chapter 1.
+Run `record-feedback` on his notes. If he approves, run `approve-chapter prologue 2`. Otherwise `revise-chapter prologue` → `draft-v3.md`. Do not start Chapter 1.

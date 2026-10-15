@@ -29,3 +29,9 @@
 - Draft is 15% over target.
 - The review found 6 echoes of the rejected AI draft (4 dialogue lines, 2 images). Not fixed yet. They need the author's go-ahead for v2.
 - The review ran in the same context as drafting (limited independence). Mechanical checks were used to compensate.
+
+## 2026-10-14 — Session 1 (continued): Prologue v2
+
+- Author on v1: bad hook; the science needs "a course on meteorology"; it must be accessible yet accurate; agrees with the editorial plan. Supplied opening lines and the "Safe" gag. Ruled that **lines he gives may be used** ("don't leave good writing on the floor"). Rules, skills, and memory updated.
+- Wrote `revision-plan-v2.md` and drafted v2 in 3 scenes: 5,161 words, verified. The 6 AI echoes are gone (mechanical check). Editorial review v2 done.
+- Open: his review of v2; whether "Safe" has a later payoff.

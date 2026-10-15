@@ -46,4 +46,45 @@ Source: the author's setup brief. These are standing instructions, not critiques
 
 ## Draft critiques
 
-*(none yet)*
+### 2026-10-14 — Prologue draft v1
+
+> "This is a bad opening hook. I feel like I need a course on meteorology to understand it. The science should be accessible to people who know nothing about water, yet still accurate. I also agree with your editorial plan."
+
+| Note | Class | In practice | When it doesn't apply |
+|---|---|---|---|
+| The v1 opening is a bad hook | Chapter | Rebuild the opening of v2 (approach chosen via Q&A) | n/a |
+| **Science must be accessible to readers who know nothing about water, and still accurate** | Project (likely Universal for this series) | The reader should feel *what a reading means* (wrong, impossible, dangerous) without needing to know *how it's measured*. Each technical fact gets a plain-language consequence, or it's cut. Accuracy stays, but it works underneath the prose rather than on top of it. Units and instrument names are rare | A character may use jargon in dialogue when the reader can grasp the gist from tone and reaction |
+| Endorses the editorial review's plan (top-3 fixes in `editorial-review-v1.md`) | Chapter | v2 applies all three: rewrite the 6 AI-draft echoes, cut the book-report density and the front-loaded background, fix the tics and Zamir's register | n/a |
+
+**Hook direction (Q&A answer, same day):**
+> "I really liked "he pushed, and the fence finally broke way. "Got it over here" timer yelled, excitement overwhelming any fatigue and the cold rain seeping past his water slick and wetting his collar" something like that"
+
+| Note | Class | In practice | When it doesn't apply |
+|---|---|---|---|
+| **Example (do not reuse):** the fence breaking, "Got it over here," the rain wetting his collar | Example | The words, the fence-breaking action, and the collar detail must **not** appear in the draft | Only if he later designates them as manuscript text |
+| Principle shown: **open mid-action, in the body**. A character exerting himself, excitement overriding fatigue and discomfort, a spoken find that pulls companion and reader forward | Project; likely Universal for chapter openings | v2 opens on Timur physically arriving at the find, eager, with the strangeness close behind | Quiet openings can still work for later chapters when the tone calls for it |
+
+**Opening models (same day, "Some morsels to model with")**, verbatim:
+> "By the time Timur Yuldashev found the broken fence, the rain had worked through his jacket and settled into the cotton underneath. He tugged at his collar, freeing the wet fabric from his neck. The runoff channel ran below a limestone shelf, a row of concrete posts leaning at different angles along the old survey road. The road had stopped being a road years ago. Birch saplings grew through its joints, and this year's thaw had taken the gravel downslope. "Tell me that's not where we're going," Alina said. Timur unfolded his notebook. Rain had softened the edges of the pages, and his pencil dented before leaving a mark. He drew a line across the rough map, connecting the culvert to the nearest surveyed drainage passage. "We're here," he said. Alina leaned in. "You're using his map again." "It's a geological survey." With Zamir's handwriting all over it, he corrected some elevations. "He wrote, 'where does the water go' in the margin." Circled three times. Timur closed the notebook. "An excellent question for a hydrologist.""
+>
+> "Or … It's like tell me we're not going down there, she says. And he goes, "What" The map says it's safe and he pulls out his pencil. And he points to the handwritten word. Safe. She goes, "What is that a secondhand map?" And he goes, "Hey, it's from a famed professor … I think."
+
+| Note | Class | In practice | When it doesn't apply |
+|---|---|---|---|
+| **Example (do not reuse):** all wording above; also the specific details: the cotton under the jacket, the collar tug, concrete posts at angles, saplings through the road's joints, the dented pencil, "where does the water go" circled three times, the "Safe" annotation, "secondhand map," "famed professor… I think" | Example | None of these go into the draft | Only if he designates them as manuscript text |
+| Principle: **open on the approach**. Weather felt in the body, a decayed Soviet place, momentum toward the site. The anomaly can wait a few hundred words if character and a question carry the hook | Project (chapter openings) | v2 opens on the approach, not on the anomaly | n/a |
+| Principle: **Zamir's influence through an object Timur relies on**. An annotated survey map whose corrections prove Zamir right (seeds his credibility without a lecture) | Project | The map carries what the lecture memory used to carry. **New detail, proposed canon:** Timur's notebook holds a photocopied Soviet survey map that Khasanov annotated and corrected | Don't make the annotation foreshadow mythically. Keep it practical |
+| Principle: **humor that punctures authority and Timur's confidence**. Alina's skepticism versus his slightly sheepish faith | Project | Original lines in that register | n/a |
+| Principle: **procedure made tactile and lay-readable** (pencil on a wet map), with zero science vocabulary | Universal | n/a | n/a |
+
+**Correction (same day):**
+> "If I give you lines you can use them. The safe handwriting is a clever gag."
+
+| Note | Class | In practice | When it doesn't apply |
+|---|---|---|---|
+| **Author-supplied lines are usable manuscript text.** This supersedes the two "Example (do not reuse)" rows above for the opening models and the fence/collar line, which are now **usable** | Universal (process) | Use his lines where they fit, with light continuity edits. Log them in the notes. Don't refuse good material out of caution | Beat-sheet sample lines (P2) stay illustrations. So does anything he explicitly calls just an example |
+| The "Safe" handwriting gag is good. Use it | Chapter | Goes into v2 s01 | n/a |
+
+**Applied:** v2 s01 opening rebuilt on his model paragraph, with the "Safe" gag and the "famed professor… I think" line. CLAUDE.md §3 and narrative-principles §3 were rewritten. The writer had over-applied the "examples are principles" rule; that was a mistake.
+
+**RECURRING** (with the 2026-10-14 "not a book report" note): technical density is now flagged twice. Updated `narrative-principles.md` §6 to put accessibility first, and added a lay-reader check to `editorial-review` §6.
