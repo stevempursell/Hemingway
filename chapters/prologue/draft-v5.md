@@ -102,7 +102,7 @@ The water had changed too. At the entrance it had still carried a little grit, s
 
 He crawled the last stretch and came up into the chamber.
 
-It was not large. His lamp found the far wall at perhaps eight meters and the ceiling just above his head, and the floor was under water deep enough to reach his thighs when he stood. The walls were black limestone, wet and gleaming, with a tidemark of dried flood mud running around them at shoulder height. On a ledge above it some spring of years ago had left a snarl of sticks and a crushed plastic bottle. The water lay on the floor so still and so clear that for a moment the room seemed to have no floor at all, only black rock going down and down under the light.
+It was not large. His lamp found the far wall at perhaps eight meters and the ceiling just above his head, and the floor was under water deep enough to reach his thighs when he stood. The walls were black limestone, wet and gleaming, with a tidemark of dried flood mud running around them at shoulder height. On a ledge above it an earlier flood had left a snarl of sticks and a crushed plastic bottle. The water lay on the floor so still and so clear that for a moment the room seemed to have no floor at all, only black rock going down and down under the light.
 
 Alina came up beside him, breathing hard. Her lamp swung across his and away, and that was how they both saw it.
 
