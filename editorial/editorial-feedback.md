@@ -120,4 +120,12 @@ Source: the author's setup brief. These are standing instructions, not critiques
 
 Added a "first-mention / orphan" check to the `revise-chapter` and `editorial-review` skills.
 
+### 2026-10-15 — Versioning
+
+> "I'm not sure iterations like that always need a new draft number." (Q&A answer: **"Only major rewrites"**)
+
+| Note | Class | In practice | When it doesn't apply |
+|---|---|---|---|
+| New draft numbers only for major rewrites (restructured or substantially rewritten scenes) | Universal (process) | Edit the current draft in place for everything else. One `fix(<ch>):` commit per fix, logged under "In-place edits" in its notes. The pre-commit hook now protects superseded drafts only | The author can always ask for a snapshot version |
+
 **RECURRING** (with the 2026-10-14 "not a book report" note): technical density is now flagged twice. Updated `narrative-principles.md` §6 to put accessibility first, and added a lay-reader check to `editorial-review` §6.
