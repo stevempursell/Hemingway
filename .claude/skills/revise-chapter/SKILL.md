@@ -10,6 +10,7 @@ description: Produce a new draft version in response to author feedback (or an a
 3. **Examples are principles.** If his feedback includes sample lines or scenarios, absorb the principle and write original prose. Use his words verbatim only if he explicitly says to.
 4. Don't over-apply. Fix what he flagged, plus clear instances of the same problem. Don't rewrite passages he didn't question, and don't flatten what works.
 5. Copy the previous draft to `draft-v(N+1).md` and revise there. **Never edit `draft-vN.md`.**
+5a. **Orphan check.** For every passage you cut or moved, list what it introduced (people, objects, facts, jokes). Find each one's first mention in the new version, and make sure that mention works as an introduction. Remove or rework any callback that now comes before its setup or points at nothing.
 6. Write `draft-v(N+1)-notes.md`: what changed, what deliberately didn't, word count before and after.
 7. Verify (file exists, word count, last lines read back). Then run `editorial-review` on the new version.
 8. Commit: `revise(<ch>): v(N+1) per author notes <date>`.

@@ -45,3 +45,7 @@
 
 - Author on v3: the cake paragraph relocates the scene ("from the fence to inside the car"), and the numerology. Recorded as Universal (background stays in the room; specificity is chosen, not accumulated). RECURRING inventory pattern. Principles and review skill updated.
 - v4: s01 background moved into the fence exchange, numbers stripped; one s03 two-number sentence fixed. 5,047 words.
+
+## 2026-10-15 — Prologue v5
+
+- Author caught an orphaned callback ("…gets her cake in one piece"). Added an orphan/first-mention check to the revise and review skills. v5 fixes both orphans (cake and grandmother).

@@ -110,4 +110,14 @@ Source: the author's setup brief. These are standing instructions, not critiques
 
 **RECURRING (third time today):** inventory-style specificity. Book report → gear inventory → numbers. Underlying lesson: **specificity is chosen, not accumulated.** Added to `narrative-principles.md` §4 and to the reviewer's mechanical counts.
 
+### 2026-10-15 — Prologue draft v4
+
+> "and your grandmother gets her cake in one piece." That's an artifact of an earlier draft since the setup is now later on
+
+| Note | Class | In practice | When it doesn't apply |
+|---|---|---|---|
+| **Revisions leave orphans.** When setup is cut or moved, every later reference to it must be rechecked: a callback can end up pointing at nothing, or arriving before its setup | Universal (process) | After any cut or move, list every element that paragraph introduced (people, objects, facts) and find each one's **first mention** in the new draft. The first mention must work as an introduction | n/a |
+
+Added a "first-mention / orphan" check to the `revise-chapter` and `editorial-review` skills.
+
 **RECURRING** (with the 2026-10-14 "not a book report" note): technical density is now flagged twice. Updated `narrative-principles.md` §6 to put accessibility first, and added a lay-reader check to `editorial-review` §6.
