@@ -1,6 +1,21 @@
 # Prologue — "The White Vein" — Chapter Plan v1
 
-**Status: AWAITING AUTHOR APPROVAL.** No prose will be drafted until this plan is approved.
+**Status: APPROVED by the author 2026-10-14 (guided Q&A), with the amendments below.**
+
+## Author amendments and answers (2026-10-14). These override the body of the plan
+| ID | Answer |
+|---|---|
+| P1 | The existing Google Doc prologue is AI-written. Fresh draft from the beats |
+| P2 | The beat-sheet sample lines are illustrations. Use none of them |
+| P3 | Alina Gareeva, environmental chemistry, same cohort. She goes home and isn't in the lab |
+| P4 | Lab: "too uniform." Isotopes match no local source; the two vials match beyond instrument precision; no age-dating claim |
+| P5 | Scar stays ambiguous |
+| P6 | **No drive bridge.** Scene break straight from the cave exit to the lab. (This overrides the beat sheet's "no time skips" at that one seam) |
+| P7 | The gap before Chapter 1 stays unspecified |
+| P8 | Unofficial: no reserve permit, no supervisor |
+| P9 | Zamir asks and doesn't tell. Number from a field-day sign-up; precise questions; says he'll come by tomorrow |
+| P10 | Author: "Does this matter? It's not a book report it's a tense story intro." → Writer's call. Gear appears only as passing detail; no inventory |
+| P11 | About 5,500 words. With the bridge cut, the working target is **about 5,100** (channel 1,500 / chamber 1,900 / lab 1,700) |
 **POV:** Timur Yuldashev, close third, past tense. Alina is secondary. Zamir appears by phone only.
 **Timeline:** spring thaw, one continuous day: early afternoon at the channel, evening drive, late night in the lab. Before Anna's arrival (how long before is open: P7).
 **Sources:** `source/beat-sheets/prologue-development-notes.md` (primary); bible §III Prologue, §IV White Vein; `story-bible/06` observed effects and narrative rules.

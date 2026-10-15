@@ -9,15 +9,15 @@ Full wording and defaults are in `chapters/prologue/outline.md` §8.
 |---|---|---|---|
 | P1 | Who wrote the existing Google Doc prologue? | AI-written; fresh draft | CLOSED 2026-10-14 |
 | P2 | Are the beat-sheet sample lines (haunting joke, "found a body," "Bodies stop changing," final line) manuscript text? | No, illustrations only | CLOSED 2026-10-14: illustrations |
-| P3 | Alina's surname, field, reason to be home tonight | Alina Gareeva, environmental chemistry; ordinary errand | OPEN |
-| P4 | Lab isotope finding: impossibly uniform, matches no local source, no age-dating claim | Yes | OPEN |
+| P3 | Alina's surname, field, reason to be home tonight | Alina Gareeva, environmental chemistry; ordinary errand | CLOSED 2026-10-14 (see outline amendments) |
+| P4 | Lab isotope finding: impossibly uniform, matches no local source, no age-dating claim | Yes | CLOSED 2026-10-14 (see outline amendments) |
 | P5 | Scar: dramatic fade, or ambiguous | Ambiguous but noticeable | CLOSED 2026-10-14: ambiguous |
-| P6 | Drive-back bridge as a continuous transition | Yes, about 400 words | OPEN |
-| P7 | Time gap from prologue to Ch. 1 | Unspecified in prologue | OPEN |
-| P8 | Why the trip is unofficial | No reserve permit; no supervisor | OPEN |
-| P9 | How Timur reaches Zamir; what Zamir does | Notebook number; questions only; "I'll come tomorrow" | OPEN |
-| P10 | Gear: neoprene, guideline, dry bags | Yes | OPEN |
-| P11 | Prologue length about 5,500 words | Yes | OPEN |
+| P6 | Drive-back bridge as a continuous transition | Yes, about 400 words | CLOSED 2026-10-14 (see outline amendments) |
+| P7 | Time gap from prologue to Ch. 1 | Unspecified in prologue | CLOSED 2026-10-14 (see outline amendments) |
+| P8 | Why the trip is unofficial | No reserve permit; no supervisor | CLOSED 2026-10-14 (see outline amendments) |
+| P9 | How Timur reaches Zamir; what Zamir does | Notebook number; questions only; "I'll come tomorrow" | CLOSED 2026-10-14 (see outline amendments) |
+| P10 | Gear: neoprene, guideline, dry bags | Yes | CLOSED 2026-10-14 (see outline amendments) |
+| P11 | Prologue length about 5,500 words | Yes | CLOSED 2026-10-14 (see outline amendments) |
 
 ## Voice and process (not blocking)
 
