@@ -5,7 +5,7 @@ These local copies are the working reference. If the author edits a Drive origin
 
 ## Canon precedence (highest first)
 
-1. **Author decisions recorded in `editorial/canon-decisions.md`** (made during this project).
+1. **Author decisions recorded in `editorial/canon-decisions.md`** and the **series causal model `editorial/series-causal-model.md`** (made during this project). Since 2026-10-15 the model overrides the bible's "Curse" (extraction now *accelerates* a pre-existing failure) and reframes the Synopsis/Step 2 "purity mechanism" language as characters' evidence and hypotheses. Source copies below are **not** edited: they mirror the Drive originals.
 2. **`story-bible/01-series-bible-consolidated.md`**: Consolidated Working Version, July 18 2026. It says it supersedes all earlier bible drafts.
 3. **`beat-sheets/prologue-development-notes.md`**: the prologue beat sheet (May 6 2026).
 4. **`story-bible/02-` to `05-`**: Synopsis, Story Foundation, Character Architecture, and the Anna rename rationale (May 2026). These are authoritative for detail the consolidated bible leaves out (Eva Reinhardt, Maya Orlova, Ilya Sokolov, Leena Vahter, Zamir's age and background, tone, prose and dialogue style). Where they conflict with #2, #2 wins. They predate the rename, so they say "Anya" (read it as **Anna**) and give her a Russian background (superseded: she is **Belarusian, from Pinsk/Polesia**).

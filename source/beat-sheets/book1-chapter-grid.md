@@ -29,3 +29,13 @@
 ## Known tensions with Story Foundation (Step 2)
 
 The Step 2 beats (Acts I–III, Beats 1–10) and the 20-chapter grid were written at different times. They don't fully line up. Step 2 has the team "isolated underground," with Maya Orlova's death and Leena Vahter's aging discovery. The grid doesn't place either. Reconcile these during each chapter's plan. **Do not resolve them unilaterally.** They are logged in `editorial/open-decisions.md`.
+
+## Causal-model dependencies (2026-10-15)
+
+Read with `editorial/series-causal-model.md`. Notes only. **The beats themselves are unchanged.**
+
+- **Ch. 1, 4, 7, 16** (purity; the hum; "active system"; "self-renewing but lethal to extract"): present as evidence and characters' hypotheses. Nothing establishes purity as the mechanism (rules 3–4).
+- **Ch. 6–15** (Vodyanoy pulse): an automated protective response to intrusion, not retaliation (rule 7).
+- **Ch. 16–20** (extraction): extraction *accelerates* the failure (CM7). The failure itself is not revealed in Book 1 (T3, late reveal).
+- **Leena Vahter** (Step 3, unplaced): her finding is consistent with CM8 (the water does it). Keep the metaphysical link unstated and the effects bounded (W1, pending).
+- **Candidate slot for P-B (burned-valley tributary):** an Anna, Zamir, or Leena chapter, to be decided (O4).

@@ -30,6 +30,20 @@ Full wording and defaults are in `chapters/prologue/outline.md` §8.
 | Q-V5 | Sole authorship of The Palace? AI assistance on Durvek? | Treat as yours, lower weight | OPEN |
 | G1 | Push this workspace to github.com/stevempursell/Hemingway (private)? | Push after each session close | CLOSED 2026-10-14: "you can push" |
 
+## Causal-model items (2026-10-15). Detail in `series-causal-model.md`
+
+| ID | Question | Status |
+|---|---|---|
+| C2-name | Resonant vs Resonator | CLOSED 2026-10-15: Resonator |
+| C1-curse | How extraction relates to the failure | CLOSED 2026-10-15: accelerant |
+| C4-bio | Biological effects | CLOSED 2026-10-15: the water does it, metaphysical link never stated |
+| C8-radio | Radioactivity in the prologue | CLOSED 2026-10-15: not yet |
+| O1 | Where removed contaminants go | OPEN |
+| O2 | The larger cause of the failure | OPEN (do not develop without author) |
+| O3 | Radioactive legacy: canon? source? link to Zamir's father? | OPEN |
+| O4 | Burned-valley tributary: Book 1 slot and POV | OPEN |
+| O5 | Confirm the writer's reading that the healing is bounded and weakening | OPEN |
+
 ## Canon gaps for later chapters (not blocking the prologue)
 
 | ID | Question | Status |
@@ -40,5 +54,5 @@ Full wording and defaults are in `chapters/prologue/outline.md` §8.
 | C4 | Step 3 has Zamir exit Book 1 "disappears into the resistance" while the grid has Ch. 18 "copying data." Compatible; confirm the Book 1 end state | OPEN |
 | C5 | Step 2's Maya Orlova death and Leena Vahter's aging finding aren't placed in the Ch. 1–20 grid. Where do they go? | OPEN |
 | C6 | Step 2 Beat 5 has the trio "isolated underground." The grid has Anna as mission control at camp (Ch. 10, 13). Which? | OPEN |
-| C7 | The Alignment Hypothesis (Resonant doc): canon, or discarded? | OPEN |
+| C7 | The Alignment Hypothesis (Resonant doc): canon, or discarded? It fits the "larger, longer-running cause" (O2) but is **not adopted** | OPEN |
 | C8 | Only one-line beats exist for Ch. 1–20. Fuller beat sheets needed, or should planning work from the one-liners? | OPEN |

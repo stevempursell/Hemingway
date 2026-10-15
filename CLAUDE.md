@@ -19,7 +19,8 @@ Continuity lives in files, never in conversational memory. If something isn't in
 
 ## 2. Canon
 
-- Precedence and inventory: `source/INDEX.md`. Short version: canon decisions > consolidated bible > prologue beat sheet > Steps 1–3 and Terms docs > retired-term background.
+- **Causal model: `editorial/series-causal-model.md`.** Read it before planning or drafting anything that touches the Resonator, the water, the Soviet legacy, or ecology. Run its forbidden-implications checklist on every plan and draft.
+- Precedence and inventory: `source/INDEX.md`. Short version: canon decisions and causal model > consolidated bible > prologue beat sheet > Steps 1–3 and Terms docs > retired-term background.
 - **Canonical names:** Dr. **Anna** Morozova (not Anya, except as a deliberate endearment: Zamir occasionally, Antonov's recordings). **The Resonator** (never "the Resonant"). **The White Vein** is a local mineral seam, never an alias for the Resonator.
 - Do **not** change established characters, relationships, motivations, world rules, scientific premises, chronology, major events, mysteries, revelations, POV, or structure.
 - You **may** invent incidental detail: dialogue, physical business, transitions, minor interactions, minor named places and people. Record anything that later chapters must respect in `editorial/continuity-ledger.md`. Flag it in the chapter report.

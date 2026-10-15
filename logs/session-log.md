@@ -49,3 +49,7 @@
 ## 2026-10-15 — Prologue v5
 
 - Author caught an orphaned callback ("…gets her cake in one piece"). Added an orphan/first-mention check to the revise and review skills. v5 fixes both orphans (cake and grandmother).
+
+## 2026-10-15 — Causal-model update
+
+- Author brief: the Resonator supports Earth and is failing; Soviets are not the cause. Impact report, Q&A (CM6–CM9), new `series-causal-model.md`, beat plan `outline-v2.md` (awaiting review). No prose changed.

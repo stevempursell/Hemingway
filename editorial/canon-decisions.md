@@ -16,3 +16,17 @@
 | P6 | Scene break between the cave and the lab; no drive scene | (chose "Scene break, straight to lab") | prologue |
 | P8 | The trip is unofficial: inside the reserve without a permit, no supervisor on flood-season fieldwork | (chose recommended option) | prologue |
 | P9 | Timur has Zamir's number from a field-day sign-up. On the call Zamir asks precise questions, explains nothing, and says he'll come tomorrow | (chose recommended option) | prologue |
+
+## 2026-10-15 (author brief "Canon and Plot Direction Update" + Q&A). Full model in `series-causal-model.md`
+
+| ID | Decision | Author's words | Affects |
+|---|---|---|---|
+| CM1 | The Resonator artificially supports Earth's ecosystem and habitability. The karst is connected to its operation | brief §1 | series |
+| CM2 | It is under strain and eventually revealed to be failing (late, gradual reveal) | brief §1, §5 | series |
+| CM3 | Soviet activity did not damage it or cause its failure. The larger cause is undeveloped; don't invent it | brief §1 | series |
+| CM4 | Human damage and the failure coexist without being causally identical | brief §1, §5 | series |
+| CM5 | The water is a window; purity is a signature or side effect, not the mechanism | brief §2, §3 | series; prologue |
+| CM6 | Name stays **"the Resonator"** | Q&A: "Keep 'the Resonator'" | all files |
+| CM7 | Deka's Shulganite extraction is an **accelerant** of the existing failure | Q&A: "Accelerant" | Books 1–4; bible §I |
+| CM8 | Biological effects: **the water does it**, and it metaphysically connects people to the Resonator's healing nature. **Never needs to be stated explicitly** | Q&A: "The water does it and it metaphysically connects people to the healing nature of the resonant. This does not ever need to be explicitly stated." | Leena; scar; P-B |
+| CM9 | The radioactive Soviet legacy does **not** appear in the prologue yet. It stays a proposal | Q&A: "Not yet" | prologue; P-A |

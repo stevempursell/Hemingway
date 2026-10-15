@@ -3,7 +3,7 @@
 **Updated:** 2026-10-14 (session 1)
 
 - **Current chapter:** Prologue, "The White Vein"
-- **Phase:** D (Author review). Draft v5 (orphan fix) is done. **AWAITING AUTHOR FEEDBACK**
+- **Phase:** D (Author review), plus a **canon update** (2026-10-15). `outline-v2.md` (3 small beat changes) is awaiting review. Prose is frozen until it's authorized.
 - **Latest approved chapter:** none
 - **Drafts:** v1 (5,844 words), v2 (5,161), v3 (5,099), v4 (5,047), and **v5 (current)** in `chapters/prologue/`. Notes are alongside each.
 
