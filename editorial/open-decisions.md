@@ -7,11 +7,11 @@ Full wording and defaults are in `chapters/prologue/outline.md` §8.
 
 | ID | Question | Recommended default | Status |
 |---|---|---|---|
-| P1 | Who wrote the existing Google Doc prologue? Use it as a base or ignore it? | Fresh draft from beats; borrow nothing | OPEN |
-| P2 | Are the beat-sheet sample lines (haunting joke, "found a body," "Bodies stop changing," final line) manuscript text? | No, illustrations only | OPEN |
+| P1 | Who wrote the existing Google Doc prologue? | AI-written; fresh draft | CLOSED 2026-10-14 |
+| P2 | Are the beat-sheet sample lines (haunting joke, "found a body," "Bodies stop changing," final line) manuscript text? | No, illustrations only | CLOSED 2026-10-14: illustrations |
 | P3 | Alina's surname, field, reason to be home tonight | Alina Gareeva, environmental chemistry; ordinary errand | OPEN |
 | P4 | Lab isotope finding: impossibly uniform, matches no local source, no age-dating claim | Yes | OPEN |
-| P5 | Scar: dramatic fade, or ambiguous | Ambiguous but noticeable | OPEN |
+| P5 | Scar: dramatic fade, or ambiguous | Ambiguous but noticeable | CLOSED 2026-10-14: ambiguous |
 | P6 | Drive-back bridge as a continuous transition | Yes, about 400 words | OPEN |
 | P7 | Time gap from prologue to Ch. 1 | Unspecified in prologue | OPEN |
 | P8 | Why the trip is unofficial | No reserve permit; no supervisor | OPEN |
@@ -23,12 +23,12 @@ Full wording and defaults are in `chapters/prologue/outline.md` §8.
 
 | ID | Question | Default | Status |
 |---|---|---|---|
-| Q-V1 | (Same as P1.) If the gdoc is yours, it becomes primary voice evidence | n/a | OPEN |
+| Q-V1 | (Same as P1.) If the gdoc is yours, it becomes primary voice evidence | n/a | CLOSED 2026-10-14: AI-written, not evidence |
 | Q-V2 | Please supply poetry and any third-person prose | n/a | OPEN |
 | Q-V3 | Synthesis: procedural density carried by your warmth and dry humor | Yes | OPEN |
 | Q-V4 | How much aphorism (voice profile C1)? | At most one per scene | OPEN |
 | Q-V5 | Sole authorship of The Palace? AI assistance on Durvek? | Treat as yours, lower weight | OPEN |
-| G1 | Push this workspace to github.com/stevempursell/Hemingway (private)? | Push after each session close | OPEN |
+| G1 | Push this workspace to github.com/stevempursell/Hemingway (private)? | Push after each session close | CLOSED 2026-10-14: "you can push" |
 
 ## Canon gaps for later chapters (not blocking the prologue)
 

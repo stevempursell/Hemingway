@@ -2,7 +2,7 @@
 
 > Ingested verbatim from the Drive Google Doc "Prologue: " (ID 1SDm77fbeYJK6XDNi3vacGuPaqYOwBOW3n-Vrpa1h-V0). It was created May 6 2026, about two hours after the prologue development notes, and last modified May 6 2026, 21:50.
 >
-> **Who wrote this is unconfirmed.** It could be the author's own prose, an earlier AI draft, or an AI draft the author edited. Until the author confirms:
+> **AI-written** (author confirmed 2026-10-14). Kept only as a record of what was tried. Never a base for the draft, never canon, never voice evidence.
 > - it is **not** used as voice evidence in `editorial/author-voice-profile.md`;
 > - it is **not** treated as approved manuscript text;
 > - its invented details (Kaga sinkhole, Deka "triple rates for field certification hours," etc.) are **not** recorded as canon.

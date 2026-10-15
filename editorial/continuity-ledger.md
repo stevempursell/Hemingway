@@ -12,7 +12,7 @@
 | Timur Yuldashev | 26, grad chemistry student, Ufa university. Trace mineral chemistry and groundwater contamination pathways. Deka regional research scholarship. Intelligent, ambitious, underfunded, desperate to prove himself. Prologue-only POV | canon | Bible; prologue notes |
 | Timur ↔ Zamir | Loose but meaningful. Zamir occasionally guest-lectured; Timur took him seriously because Zamir noticed things others ignored, not because he believed him | canon | Prologue notes |
 | Timur's kit | Sample kits, portable spectrometer, old field notebook annotated from Zamir's lectures | canon | Prologue notes |
-| Timur's scar | Old chemical burn scar on his wrist | canon | Prologue notes |
+| Timur's scar | Old chemical burn scar on his wrist. After the cave, it may look fainter, but this stays **ambiguous** (never confirmed) | canon | Prologue notes; canon decision P5 |
 | Alina | Fellow student. Practical, skeptical, mildly irritated. No surname, field, or background in canon | canon (thin) | Bible; prologue notes |
 | Zamir Khasanov | Bashkir geologist, 52. Seen by most students as eccentric, folklore-obsessed, semi-retired. Speaks softly; dry humor; asks destabilizing questions | canon | Step 3; prologue notes |
 | The White Vein | Pale, quartz-like, smooth, organically layered mineral seam in black limestone, beneath flowing water. Water around it noticeably colder. A local manifestation of the Resonator, not the Resonator | canon | Bible §IV |

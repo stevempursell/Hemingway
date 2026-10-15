@@ -16,6 +16,14 @@ Source: the author's setup brief. These are standing instructions, not critiques
 | Reading experience over speed | Universal | Don't compress to finish | n/a |
 | Never claim unretrievable work; verify files; real word counts | Universal (process) | Verify before every announcement | n/a |
 
+## 2026-10-14 — Reaction to setup report
+
+> "I preferred guided q&a."
+
+| Lesson | Class | In practice | When it doesn't apply |
+|---|---|---|---|
+| Present decisions as guided Q&A (question cards with options, recommended option first, a few at a time), not as a list of prose questions at the end of a report | Universal (process) | Plans and reports stay short. Every open question goes through AskUserQuestion. The plan file still records the questions and answers | When a question really is open-ended and needs his own words; even then, ask it as a card that offers an "Other" answer |
+
 ## Draft critiques
 
 *(none yet)*

@@ -57,13 +57,15 @@ Full text: `editorial/narrative-principles.md`. Voice: `editorial/author-voice-p
 
 Feedback handling: `record-feedback`. End of session: `session-close`.
 
+**Asking the author:** he prefers **guided Q&A**. Put every decision you need from him into AskUserQuestion cards, up to 4 per card, recommended option first, each option's trade-off in its description. Don't end a report with a list of questions in prose. Record his answers in the plan or decision files right away.
+
 ## 6. File safety (hard rules)
 
 - **Never overwrite or edit** an existing `draft-vN.md`, any `approved.md`, or anything in `manuscript/` without the author's explicit permission in chat. New versions get new filenames.
 - `approved.md` is created **only** by `tools/approve.sh`, which refuses to overwrite. `.claude/settings.json` denies Edit and Write on approved files and `manuscript/`. A git pre-commit hook (`tools/git-hooks/pre-commit`) blocks changes to committed approved files.
 - **Never silently revise approved text.** If an approved chapter needs a change, propose it. If he agrees, the record goes in `editorial/canon-decisions.md` and `chapters/<ch>/approved-amendments.md`. He decides how the file itself changes.
 - Before saying a draft exists, **verify it**: the file exists, `tools/wordcount.sh` runs on it, and its last lines are read back. Never claim work that can't be retrieved.
-- Commit after each meaningful step with a descriptive message. Remote: `origin` (github.com/stevempursell/Hemingway, private). **Push only when the author says to.**
+- Commit after each meaningful step with a descriptive message. Remote: `origin` (github.com/stevempursell/Hemingway, private). The author authorized pushing on 2026-10-14 ("you can push"): push after each commit-worthy step and at session close. Never force-push.
 
 ## 7. Layout
 

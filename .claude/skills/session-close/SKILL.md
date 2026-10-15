@@ -14,5 +14,5 @@ description: End-of-session save. Make sure all work is in files and committed, 
    - **next planned action** (one sentence, executable by a fresh session).
 3. Make sure every question asked this session is in `editorial/open-decisions.md`.
 4. Append to `logs/session-log.md`: date, what was done, files created or changed, decisions made, and anything left incomplete (**say so plainly**).
-5. Commit: `session: close <date>`. Push only if the author has said to.
+5. Commit: `session: close <date>`, then `git push` (authorized 2026-10-14; never force).
 6. Tell the author in at most 4 lines: what's saved, what's waiting on him, and what happens next.

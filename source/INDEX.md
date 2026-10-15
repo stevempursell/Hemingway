@@ -23,7 +23,7 @@ These local copies are the working reference. If the author edits a Drive origin
 | story-bible/06-the-resonant-retired-term.md | Terms / The Resonant | 1qGoAESnAvy7tpmQAdmU_qN4ZPy3ZgKqZDwbtbKjTcy8 | Term retired; background |
 | beat-sheets/prologue-development-notes.md | GLUBINA_Prologue_Development_Notes.docx | 14qfBBa9L5tr6R0zPSo7zQbTF0wpZ9rwq | **Prologue beat sheet** |
 | beat-sheets/book1-chapter-grid.md | From bible §VI plus Chats spreadsheets | n/a | Chapter-level beats, Ch. 1–20 |
-| existing-prose/prologue-gdoc-draft.md | "Prologue: " (Google Doc) | 1SDm77fbeYJK6XDNi3vacGuPaqYOwBOW3n-Vrpa1h-V0 | **Who wrote it is unconfirmed.** Covers Parts I–II only |
+| existing-prose/prologue-gdoc-draft.md | "Prologue: " (Google Doc) | 1SDm77fbeYJK6XDNi3vacGuPaqYOwBOW3n-Vrpa1h-V0 | **AI-written** (confirmed). Record only; not canon, not voice evidence |
 | writing-samples/* | See writing-samples/README.md | | Voice evidence |
 
 ## Not ingested (and why)

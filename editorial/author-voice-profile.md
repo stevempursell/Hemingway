@@ -1,7 +1,7 @@
 # Author Voice Profile — Steve Pursell
 
 > **Version 1, 2026-10-14.** Built from `source/writing-samples/`: Durvek Stoneborn (2025), Dust (2024), Witte treatment (2012), Borderline (2012), The Palace screenplay excerpt (2014, authorship share unconfirmed).
-> **Not used as evidence:** the existing Glubina prologue Google Doc (authorship unconfirmed), all AI-generated treatment and backstory docs, and poetry (none supplied).
+> **Not used as evidence:** the existing Glubina prologue Google Doc (AI-written, confirmed), all AI-generated treatment and backstory docs, and poetry (none supplied).
 > **Purpose:** to write *new* prose that's compatible with the author's sensibilities. It is **not** a style to copy. Never reuse his sentences, images, or jokes. Short quotes below are evidence, not templates.
 > **Revise this file whenever his feedback contradicts it.** Feedback wins.
 
@@ -77,7 +77,7 @@ Palace and Borderline: misunderstanding escalates, deadpan meets hysteria, a cha
 
 ## E. Open voice questions for the author
 
-- **Q-V1.** Is the Glubina prologue Google Doc your own prose? If yes, it becomes the **primary** voice evidence for Glubina (it's third-person and on-project), and this profile gets revised around it.
+- ~~**Q-V1.**~~ Closed 2026-10-14: the Google Doc prologue is AI-written. Not evidence.
 - **Q-V2.** Please share any poetry, and any third-person narrative prose you've written (even unfinished).
 - **Q-V3.** Your Story Foundation names Crichton/Clancy/McCarthy-style density and restraint. Your samples are warmer and funnier. Proposed synthesis: **procedural density carried by your warmth and dry humor**. Technical specificity, but told by people who joke when they're frightened. Agree?
 - **Q-V4.** C1: how much aphorism do you want? Default is at most one per scene.

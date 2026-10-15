@@ -25,7 +25,7 @@ description: Phase A. Prepare a chapter plan (beats, POV, scenes, character know
 6. **Pacing.** Where the chapter accelerates and where it breathes. Total word target, with the reasoning: does each beat carry enough dramatic material for its share?
 7. **Invented details proposed.** Named minor people, places, or objects you plan to introduce. These need the author's OK before they become canon.
 8. **Plausibility notes.** Science, physical, or procedural points that need care, and how you plan to handle them.
-9. **Open questions for the author.** Numbered and specific. Each has a recommended default, so he can answer "default" quickly. Copy each into `editorial/open-decisions.md`.
+9. **Open questions for the author.** Numbered and specific, each with a recommended default. Copy each into `editorial/open-decisions.md`. **Ask them through guided Q&A** (AskUserQuestion, up to 4 per card, recommended option first), not as a prose list. Record his answers in the outline and the decision files as they come in. Make the last card the plan-approval question.
 
 ## Rules
 - Plan dramatized scenes, not a beat checklist.
