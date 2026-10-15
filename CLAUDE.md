@@ -52,7 +52,7 @@ Full text: `editorial/narrative-principles.md`. Voice: `editorial/author-voice-p
 | B. Drafting | `draft-chapter` | `chapters/<ch>/draft-vN.md` plus `draft-vN-notes.md` | Can run scene by scene without per-scene approval, unless he asks for that |
 | C. Editorial review | `editorial-review` (+ `continuity-check`) | `chapters/<ch>/editorial-review-vN.md` | Honest, specific, independent. No self-congratulation |
 | D. Author review | n/a | Present the full draft plus a concise report | **Stop. Do not start the next chapter.** |
-| Revisions | `revise-chapter` | New `draft-v(N+1).md`. Never edit an existing version | Back to C |
+| Revisions | `revise-chapter` | **Major rewrite** (scenes restructured or substantially rewritten): new `draft-v(N+1).md`. **Anything smaller** (line fixes, cuts, trims, a batch of small notes): edit the current draft in place, one git commit per fix, logged in its notes | Back to C (a short delta review for in-place edits) |
 | E. Approval | `approve-chapter` | Immutable `approved.md`, ledger and feedback updates | Only on his explicit approval |
 
 Feedback handling: `record-feedback`. End of session: `session-close`.
@@ -61,8 +61,9 @@ Feedback handling: `record-feedback`. End of session: `session-close`.
 
 ## 6. File safety (hard rules)
 
-- **Never overwrite or edit** an existing `draft-vN.md`, any `approved.md`, or anything in `manuscript/` without the author's explicit permission in chat. New versions get new filenames.
-- `approved.md` is created **only** by `tools/approve.sh`, which refuses to overwrite. `.claude/settings.json` denies Edit and Write on approved files and `manuscript/`. A git pre-commit hook (`tools/git-hooks/pre-commit`) blocks changes to committed approved files.
+- **Draft versioning (author, 2026-10-15: new numbers "only for major rewrites"):** the **current** draft may be edited in place for anything short of a major rewrite. Each fix is its own commit with a descriptive message plus a line in `draft-vN-notes.md` under "In-place edits", so git keeps every prior state. A major rewrite gets a new `draft-v(N+1).md`. **Superseded** drafts (any lower N) are never edited.
+- **Never overwrite or edit** any `approved.md` or anything in `manuscript/` without the author's explicit permission in chat.
+- `approved.md` is created **only** by `tools/approve.sh`, which refuses to overwrite. `.claude/settings.json` denies Edit and Write on approved files and `manuscript/`. A git pre-commit hook (`tools/git-hooks/pre-commit`) blocks changes to committed approved files, manuscripts, and superseded drafts.
 - **Never silently revise approved text.** If an approved chapter needs a change, propose it. If he agrees, the record goes in `editorial/canon-decisions.md` and `chapters/<ch>/approved-amendments.md`. He decides how the file itself changes.
 - Before saying a draft exists, **verify it**: the file exists, `tools/wordcount.sh` runs on it, and its last lines are read back. Never claim work that can't be retrieved.
 - Commit after each meaningful step with a descriptive message. Remote: `origin` (github.com/stevempursell/Hemingway, private). The author authorized pushing on 2026-10-14 ("you can push"): push after each commit-worthy step and at session close. Never force-push.
