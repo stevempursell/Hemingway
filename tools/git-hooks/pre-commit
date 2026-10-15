@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+# Block modification, deletion, or rename of committed approved chapters and assembled manuscripts.
+# Adding NEW approved files is allowed. Override only with author permission: ALLOW_APPROVED_CHANGE=1 git commit ...
+[ "${ALLOW_APPROVED_CHANGE:-0}" = "1" ] && exit 0
+bad=$(git diff --cached --name-status --diff-filter=MDR | awk '{print $NF" "$2}' | grep -E '(chapters/[^/]+/approved\.md|^manuscript/|chapters/[^/]+/draft-v[0-9]+\.md)' || true)
+if [ -n "$bad" ]; then
+  echo "BLOCKED: this commit changes protected files (approved text, manuscript, or an existing draft version):" >&2
+  echo "$bad" >&2
+  echo "Save a new version instead, or get the author's explicit permission (see CLAUDE.md §6)." >&2
+  exit 1
+fi
+exit 0

@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "deny": [
+      "Edit(chapters/*/approved.md)",
+      "Write(chapters/*/approved.md)",
+      "Edit(manuscript/**)",
+      "Write(manuscript/**)"
+    ]
+  }
+}
