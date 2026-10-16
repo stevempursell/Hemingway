@@ -128,4 +128,14 @@ Added a "first-mention / orphan" check to the `revise-chapter` and `editorial-re
 |---|---|---|---|
 | New draft numbers only for major rewrites (restructured or substantially rewritten scenes) | Universal (process) | Edit the current draft in place for everything else. One `fix(<ch>):` commit per fix, logged under "In-place edits" in its notes. The pre-commit hook now protects superseded drafts only | The author can always ask for a snapshot version |
 
+### 2026-10-16 — Review-v5 fixes
+
+> "I'd have solved 1 and 3 by just removing them. Editor needs to avoid adding lines to justify hanging leftovers"
+
+| Note | Class | In practice | When it doesn't apply |
+|---|---|---|---|
+| **Fix leftovers by cutting, not by adding setup.** When a line is orphaned or duplicated, the default fix is to delete it. Adding a sentence to justify a leftover is justification creep (same family as the 2026-10-14 "details are not obligations" note) | Universal | In reviews, the first proposed fix for any orphan, duplicate, or dangling reference is **removal**. Proposing an addition requires showing that the scene loses something it needs without it | A required beat that lost its setup gets the minimum needed to make it read, and nothing more |
+
+**RECURRING** (justification creep, third form: gear → knowledge → orphan repair). Updated the `editorial-review` and `revise-chapter` orphan steps to "cut first."
+
 **RECURRING** (with the 2026-10-14 "not a book report" note): technical density is now flagged twice. Updated `narrative-principles.md` §6 to put accessibility first, and added a lay-reader check to `editorial-review` §6.

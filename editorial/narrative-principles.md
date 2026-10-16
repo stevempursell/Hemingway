@@ -38,6 +38,7 @@ The writer knows the whole series. The characters don't. Before every scene, ans
 - **Don't** use clipped sentences and isolated one-line paragraphs to fake intensity.
 - **Don't** inflate prose to hit a word count.
 - **Specificity is chosen, not accumulated.** One telling detail beats four. Don't stack numbers: use at most one per beat, and only when the number itself matters. (Author flagged "Her grandmother turned seventy tonight, and thirty relatives would be packed into a ninth-floor flat by eight o'clock.")
+- **Cut leftovers; never justify them.** An orphaned or duplicated line is fixed by deleting it, not by adding setup (author, 2026-10-16).
 - **Background stays in the room.** Never let a backstory paragraph carry the reader to another place mid-scene (author flagged a jump "from the fence to inside the car"). Anchor background in dialogue or in a thought triggered by what's in front of the POV character.
 - It should be enjoyable sentence by sentence, not just competent at delivering plot.
 - Review question: **does it read like a novel, or like an expanded synopsis?**
