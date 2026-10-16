@@ -64,6 +64,8 @@ But a thin mist lay on the clear water where it came out from behind the slab, a
 
 "Is that a Khasanov thing?" Alina said. "That's a Khasanov thing you're doing with your hand."
 
+It was, more or less. Khasanov had once stood at the front of a lecture hall with his palm raised to a draft nobody else could feel, talking about caves that breathe, while a hall full of students looked at their phones.
+
 "It's breathing out," he said. "There's a big space back there."
 
 "There's a big space in my grandmother's flat, and tonight it's going to have my entire family and a cake in it. I'd like to be one of the family. Ideally the cake makes it too."
