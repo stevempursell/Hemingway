@@ -53,3 +53,7 @@
 ## 2026-10-15 — Causal-model update
 
 - Author brief: the Resonator supports Earth and is failing; Soviets are not the cause. Impact report, Q&A (CM6–CM9), new `series-causal-model.md`, beat plan `outline-v2.md` (awaiting review). No prose changed.
+
+## 2026-10-15 — Editor pass on v5
+
+- Full review written: `editorial-review-v5.md`. Strong overall; 1 orphan ("Khasanov thing with your hand"), B1 job beat unpaid, duplicate purified-water comparison, simile cluster in s03, 2 consistency nits. No changes made yet.

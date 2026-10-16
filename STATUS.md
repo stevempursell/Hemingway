@@ -3,7 +3,7 @@
 **Updated:** 2026-10-14 (session 1)
 
 - **Current chapter:** Prologue, "The White Vein"
-- **Phase:** D (Author review). Canon update done (causal model). Beat plan v2 applied in place to v5. **AWAITING AUTHOR READ OF v5**
+- **Phase:** D (Author review). Editorial review of v5 done (`editorial-review-v5.md`: 5 polish findings). **AWAITING AUTHOR: apply the fixes, or read first**
 - **Latest approved chapter:** none
 - **Drafts:** v1 (5,844 words), v2 (5,161), v3 (5,099), v4 (5,047), and **v5 (current)** in `chapters/prologue/`. Notes are alongside each.
 
