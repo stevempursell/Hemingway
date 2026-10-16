@@ -14,3 +14,4 @@ words: 5038
 - **Word count after edits:** 5123 (was 5,038).
 - **Validation:** the causal-model forbidden-implications scan is clean (no Soviet cause, no failure, healing, metaphysical, or radioactive language).
 - *Note:* `scenes/v5-s01.md` and `scenes/v4-s03.md` predate these in-place edits. `draft-v5.md` is authoritative.
+- **2026-10-16, review-v5 fixes** (author: "Ok"). #1 restored Khasanov's raised-palm gesture as setup for Alina's line (`3c88bbd`). #2 Timur realizes in the lab he never sampled the stain; the metals line notes the clear strip ran a few meters from it (`a64506d`). #3 the s03 result calls back to the "coffee tap," with the filters-and-lamp clause cut (`cdc8b5c`). #4 cut the mended-coat simile (`3e05c22`). #5 "broken fence" made consistent; map sentence untangled (`a5fc1c7`). Word count: 5192.

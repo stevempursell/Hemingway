@@ -57,3 +57,4 @@
 ## 2026-10-15 — Editor pass on v5
 
 - Full review written: `editorial-review-v5.md`. Strong overall; 1 orphan ("Khasanov thing with your hand"), B1 job beat unpaid, duplicate purified-water comparison, simile cluster in s03, 2 consistency nits. No changes made yet.
+- 2026-10-16: applied all 5 review-v5 fixes in place (5 commits). 5192 words.
