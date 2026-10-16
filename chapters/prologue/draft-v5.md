@@ -62,10 +62,6 @@ It was. Under the roar there was a deeper note now, the sound of a whole valley'
 
 But a thin mist lay on the clear water where it came out from behind the slab, and the mist was moving the wrong way. The wind was blowing down the cut, into their faces, and the mist was drifting toward them anyway, out of the dark. Timur pulled off a glove and held his bare hand up to the gap. Cold air was pouring out of it, steady and hard, colder than the rain, colder than the river, as if a door had been left open on a winter much deeper than this one.
 
-"Is that a Khasanov thing?" Alina said. "That's a Khasanov thing you're doing with your hand."
-
-It was, more or less. Khasanov had once stood at the front of a lecture hall with his palm raised to a draft nobody else could feel, talking about caves that breathe, while a hall full of students looked at their phones.
-
 "It's breathing out," he said. "There's a big space back there."
 
 "There's a big space in my grandmother's flat, and tonight it's going to have my entire family and a cake in it. I'd like to be one of the family. Ideally the cake makes it too."
