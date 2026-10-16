@@ -192,7 +192,7 @@ The last test was the one that tells you where water comes from. Rain and snow c
 
 He sat back on the stool and tried to think like a chemist.
 
-Every way of cleaning water he had ever heard of left a mark. Filters let some things through. Boiling and condensing shifted the water's signature in a known direction. Every treatment left behind traces of whatever it had done, and you could read a cleaned sample the way you could read a mended coat. This had no marks. It didn't look like water that had been cleaned. It looked like his results at the end of a long day, after he'd corrected them, after he'd subtracted the background and the drift and every bit of noise the world had added on the way to the instrument. It looked as though the corrections had been made in the water itself.
+Every way of cleaning water he had ever heard of left a mark. Filters let some things through. Boiling and condensing shifted the water's signature in a known direction. Every treatment left behind traces of whatever it had done. This had no marks. It didn't look like water that had been cleaned. It looked like his results at the end of a long day, after he'd corrected them, after he'd subtracted the background and the drift and every bit of noise the world had added on the way to the instrument. It looked as though the corrections had been made in the water itself.
 
 He didn't like that thought. He got up and went to the sink to wash his hands, mostly so they would have something to do.
 
