@@ -16,7 +16,7 @@ Alina looked at the word, then down at the noise coming up from below the shelf,
 
 "Hey. It's from a famed professor." A pause. "I think."
 
-It was secondhand, strictly speaking. Dr. Khasanov had handed out copies at the end of a guest lecture two years ago: a Soviet survey sheet photocopied so many times that the contour lines had gone furry, gone over first in his pencil, with arrows along the drainage, remarks in that small upright hand, and some of the printed elevations crossed out and corrected. Last autumn Timur had checked one of the corrections with a borrowed GPS. The Soviet surveyors had the ridge wrong by more than the height of the chemistry building. Khasanov hadn't been off at all. Whether that made him famed was another matter. Most of the department knew him as the man who talked about river spirits.
+It was secondhand, strictly speaking. Dr. Khasanov had handed out copies at the end of a guest lecture two years ago: a Soviet survey sheet photocopied so many times that the contour lines had gone furry. He had worked over the original in pencil before copying it: arrows along the drainage, remarks in that small upright hand, some of the printed elevations crossed out and corrected. Last autumn Timur had checked one of the corrections with a borrowed GPS. The Soviet surveyors had the ridge wrong by more than the height of the chemistry building. Khasanov hadn't been off at all. Whether that made him famed was another matter. Most of the department knew him as the man who talked about river spirits.
 
 Alina was looking at the broken fence. "We're not supposed to be past that. You know that. No permit, no supervisor."
 
@@ -224,7 +224,7 @@ The line went quiet for long enough that he took the phone from his ear and look
 
 "Where is it?" Khasanov said.
 
-Timur told him: the forestry road, the fallen fence, the cut with the mesh hanging off it, the slab. Khasanov made him go through it twice.
+Timur told him: the forestry road, the broken fence, the cut with the mesh hanging off it, the slab. Khasanov made him go through it twice.
 
 "And you went in. During the thaw."
 
