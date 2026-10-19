@@ -5,7 +5,7 @@
 - **Book stage:** First draft. Chapters are approved for **Draft** one at a time. Each chapter's deferred notes collect in `chapters/<ch>/notes/` for the end-of-draft revision (CM12).
 - **Draft-approved chapters:** **Prologue, "The White Vein"** (`chapters/prologue/approved-draft.md`, from v5, 5,117 words, 2026-10-18). Deferred notes: 1 file (`chapters/prologue/notes/`).
 - **Final-approved chapters:** none.
-- **Current chapter:** Chapter 1 (Anna). **Phase A: plan v1 written, AWAITING AUTHOR APPROVAL** (`chapters/chapter-01/outline.md`).
+- **Current chapter:** Chapter 1 (Anna). **Phase A: plan v2 written** (`chapters/chapter-01/outline-v2.md`; it opens on the author's waking scene; present tense). **AWAITING AUTHOR APPROVAL.**
 
 ## Waiting on the author
 1. Approve or amend the Chapter 1 plan.

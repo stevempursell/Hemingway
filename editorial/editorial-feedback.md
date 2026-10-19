@@ -139,3 +139,12 @@ Added a "first-mention / orphan" check to the `revise-chapter` and `editorial-re
 **RECURRING** (justification creep, third form: gear → knowledge → orphan repair). Updated the `editorial-review` and `revise-chapter` orphan steps to "cut first."
 
 **RECURRING** (with the 2026-10-14 "not a book report" note): technical density is now flagged twice. Updated `narrative-principles.md` §6 to put accessibility first, and added a lay-reader check to `editorial-review` §6.
+
+### 2026-10-19 — Chapter 1 plan: author supplied the opening scene
+
+> "Had a snippet of idea that maybe adds a good bit before driving Anna to facility." (Text filed verbatim in `chapters/chapter-01/author-lines/2026-10-19-waking-scene.md`.)
+
+| Note | Class | In practice | When it doesn't apply |
+|---|---|---|---|
+| The author's own opening for Ch. 1: Anna waking with a dry mouth, the Yulaev house, a glass left for her, Antonov's notebook held but not opened | Chapter (usable text) | Becomes S0 of the Ch. 1 plan v2, used as written (present tense) | n/a |
+| What it shows the writer: **haunting through an object held, not a thought explained**; the body before the job; hospitality and a household's life going on in another language | Project (craft) | Use objects, sensation, and others' ordinary lives to carry Anna's interior | n/a |

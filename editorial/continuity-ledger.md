@@ -51,3 +51,6 @@ Status `approved-draft` = locked as the first-draft text of record (it can still
 | Ben | On site since wave 1 (Lampshells) | canon | CH1-6 |
 | Zamir | Deka's sidelined local geological consultant | canon | CH1-7 |
 | Antonov | Worked at this station. No physical trace; Anna knows | canon | CH1-8 |
+| Tense | Anna's chapters: **present**. Prologue: past. Ben/Zamir: TBD (T1) | canon | CH1-9 |
+| Billeting | Wave-2 staff are lodged with village families. Anna is with **the Yulaevs** (Bashkir; a child at home). Deka driver pickup | canon | CH1-10 |
+| Antonov's notebook | Small, black, cover softened with age. In Anna's keeping; she thinks of it as not hers. **Antonov died six years ago.** It never names this station | canon | CH1-11 |

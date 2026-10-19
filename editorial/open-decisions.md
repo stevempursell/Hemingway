@@ -44,6 +44,12 @@ Full wording and defaults are in `chapters/prologue/outline.md` §8.
 | O4 | Burned-valley tributary: Book 1 slot and POV | OPEN |
 | O5 | Confirm the writer's reading that the healing is bounded and weakening | CLOSED 2026-10-15: yes, bounded |
 
+## Style (2026-10-19)
+
+| ID | Question | Status |
+|---|---|---|
+| T1 | Tense for Ben's and Zamir's POV chapters (Anna is present tense, CH1-9) | OPEN: ask before planning Ch. 2 |
+
 ## Canon gaps for later chapters (not blocking the prologue)
 
 | ID | Question | Status |

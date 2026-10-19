@@ -47,3 +47,6 @@
 | CH1-6 | **Ben is already on site** (came with wave 1 to prepare the Lampshells). Not met in Ch. 1 | (chose recommended) | Ch. 1–2 |
 | CH1-7 | **Zamir is Deka's sidelined local geological consultant**, hired early and no longer listened to | (chose recommended) | Ch. 1, 3 |
 | CH1-8 | **Antonov worked at this station.** No physical evidence of it anywhere. **Anna just knows** | "1 with no physical evidence. She just knows." | Ch. 1+; Antonov |
+| CH1-9 | **Anna's chapters are in present tense.** The prologue stays past. Ben's and Zamir's chapters are undecided (open item T1) | Q&A: "Present for Anna" | all Anna chapters; voice |
+| CH1-10 | **Deka billets incoming (wave-2) staff with village families** until station quarters are ready. Anna stays with **the Yulaevs** (a Bashkir household; a child speaks Bashkir). **A Deka driver collects her** | Q&A: "Deka billets them"; author lines 2026-10-19 | Ch. 1; setting |
+| CH1-11 | **Antonov's notebook**: small, black, worn. Anna has kept it, though it isn't hers. **Antonov died six years before Ch. 1.** **The notebook never names the station.** She doesn't open it in Ch. 1 | Author lines 2026-10-19; Q&A: "Never names the station" | Antonov; Ch. 1+ |
