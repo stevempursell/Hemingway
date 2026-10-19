@@ -64,3 +64,4 @@
 
 - Author: approve v5 for "Draft" of the book, with a cumulative per-chapter notes folder that is not addressed until the end. Added a two-tier approval (approve.sh draft tier, assemble.sh draft, permission rules, hook, CLAUDE.md, approve-chapter skill, session-start).
 - Locked `chapters/prologue/approved-draft.md` (identical to v5, 5,117 words). Filed the author-supplied editorial assessment verbatim in `chapters/prologue/notes/` with an index (cross-references only; nothing acted on). Ledger updated with the prologue's established facts. CM12–CM13 recorded.
+- 2026-10-18: Ch. 1 planned via guided Q&A (CH1-1–CH1-8 recorded). `chapters/chapter-01/outline.md` awaiting approval.

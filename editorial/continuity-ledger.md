@@ -41,3 +41,13 @@ Status `approved-draft` = locked as the first-draft text of record (it can still
 | Lab setting | Ufa university chemistry building; night watchman; fourth-floor lab; **Deka-supplied mass spectrometer** (booking rules); vent fans off at 01:00; buzzing light; dead vending machine. Timur fills in a **Deka quarterly report** ("Community Engagement" box) | approved-draft |
 | Khasanov call | **He doesn't remember Timur.** He asks: did it mix; was the cold in the water or the stone; did you hear anything. He gets the location twice. "braver than you are sensible." Tells Timur to write everything down. **Will come at nine the next morning** | approved-draft |
 | Final event | The **switched-off field spectrometer** emits a low tone. The capped second bottle's water shows crossing lines and taps against the bench for about 5 s. Timur writes down the time and everything else | approved-draft |
+
+## Canon set during planning (not yet in approved text)
+| Item | Fact | Status | Source |
+|---|---|---|---|
+| Timeline | Ch. 1 is months after the prologue; Deka's operation is underway; Anna arrives in wave 2 | canon | CH1-1 |
+| Camp | Built around an abandoned Soviet hydrology station near the Shulgan basin ("Shulgan Station," Step 2 Beat 1) | canon | CH1-3; Step 2 |
+| Wave 1 | Groundwork only; nobody in the deep system yet | canon | CH1-5 |
+| Ben | On site since wave 1 (Lampshells) | canon | CH1-6 |
+| Zamir | Deka's sidelined local geological consultant | canon | CH1-7 |
+| Antonov | Worked at this station. No physical trace; Anna knows | canon | CH1-8 |

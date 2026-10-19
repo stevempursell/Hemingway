@@ -34,3 +34,16 @@
 | CM11 | Prologue beat plan v2 approved; edits made in place in v5 | Q&A: "Approve, make edits" | prologue |
 | CM12 | **Two-tier approval.** A chapter is first **approved for Draft** (`approved-draft.md`, locked) with a **cumulative per-chapter `notes/` folder that isn't addressed until the end** of the first draft. Final approval (`approved.md`) comes after the end-of-draft revision | "I want to approve v5 for "Draft" of the book, with a cumulative notes folder per-chapter that isn't addressed until the end." (2026-10-18) | workflow; all chapters |
 | CM13 | **Prologue v5 approved for Draft** (2026-10-18). Notes deferred: `chapters/prologue/notes/` | same message | prologue |
+
+## 2026-10-18 (Chapter 1 planning, guided Q&A)
+
+| ID | Decision | Author's words | Affects |
+|---|---|---|---|
+| CH1-1 | Chapter 1 opens **months** after the prologue. A **sizable Deka operation is already underway**. There's a **first wave**; the protagonists are not in it (Anna is **wave 2**) | "Enough time that a sizable operation could be underway. Maybe months? There's a first wave, and our protagonists aren't in it. Maybe they're wave 2." | Ch. 1+; timeline |
+| CH1-2 | **No link** to Timur's discovery in Ch. 1 | "No link yet" | Ch. 1 |
+| CH1-3 | The camp is built around an **abandoned Soviet hydrology station** | (chose recommended) | setting |
+| CH1-4 | On the page in Ch. 1: **Zamir (glimpsed)** and a **Deka presence (Eva or Sokolov)**. Ben is not met | (selection) | Ch. 1 |
+| CH1-5 | **Wave 1 did groundwork only** (camp, power, roads, permits, baseline river monitoring). Nobody has entered the deep system | (chose recommended) | Ch. 1–5 |
+| CH1-6 | **Ben is already on site** (came with wave 1 to prepare the Lampshells). Not met in Ch. 1 | (chose recommended) | Ch. 1–2 |
+| CH1-7 | **Zamir is Deka's sidelined local geological consultant**, hired early and no longer listened to | (chose recommended) | Ch. 1, 3 |
+| CH1-8 | **Antonov worked at this station.** No physical evidence of it anywhere. **Anna just knows** | "1 with no physical evidence. She just knows." | Ch. 1+; Antonov |
