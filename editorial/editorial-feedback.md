@@ -148,3 +148,13 @@ Added a "first-mention / orphan" check to the `revise-chapter` and `editorial-re
 |---|---|---|---|
 | The author's own opening for Ch. 1: Anna waking with a dry mouth, the Yulaev house, a glass left for her, Antonov's notebook held but not opened | Chapter (usable text) | Becomes S0 of the Ch. 1 plan v2, used as written (present tense) | n/a |
 | What it shows the writer: **haunting through an object held, not a thought explained**; the body before the job; hospitality and a household's life going on in another language | Project (craft) | Use objects, sensation, and others' ordinary lives to carry Anna's interior | n/a |
+
+### 2026-10-19 — Bechdel concern on the Chapter 1 plan
+
+> "Is it a failure of the bechdel test that she keeps thinking of a man"
+
+| Note | Class | In practice | When it doesn't apply |
+|---|---|---|---|
+| **Don't let Anna's world and interior be saturated by men.** Her motive (Antonov) is professional and ethical, which is fine, but a chapter's speaking roles and interior shouldn't all point at men | Project (likely Universal) | When planning, count who speaks and what the POV character's interior is about. Give Anna material that's hers alone (Polesia, her science, her stake). Where the story allows, have women talk to each other about the work. Applied: Eva at intake (CH1-13), two Antonov touches instead of three (CH1-14) | Not a quota. Some chapters will legitimately be male-heavy (e.g. Ben's). Use it as a planning check, not a rule |
+
+Added a cast and interior-balance line to the `plan-chapter` checks.

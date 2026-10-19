@@ -30,5 +30,6 @@ description: Phase A. Prepare a chapter plan (beats, POV, scenes, character know
 ## Rules
 - Plan dramatized scenes, not a beat checklist.
 - Don't plan foreshadowing that relies on characters noticing or discussing the significance of things.
+- **Cast and interior balance** (author, 2026-10-19): note who speaks and what the POV character's interior is about. Avoid a chapter whose every speaking role and preoccupation points at men. Where the story allows, let women talk to each other about something other than a man. It's a check, not a quota.
 - If the source material is too thin to plan responsibly, say what's missing. Don't fill the gap with invented canon.
 - Update `STATUS.md` (phase: A, awaiting approval) and commit: `plan(<ch>): outline vN for author approval`.
