@@ -50,3 +50,4 @@
 | CH1-9 | **Anna's chapters are in present tense.** The prologue stays past. Ben's and Zamir's chapters are undecided (open item T1) | Q&A: "Present for Anna" | all Anna chapters; voice |
 | CH1-10 | **Deka billets incoming (wave-2) staff with village families** until station quarters are ready. Anna stays with **the Yulaevs** (a Bashkir household; a child speaks Bashkir). **A Deka driver collects her** | Q&A: "Deka billets them"; author lines 2026-10-19 | Ch. 1; setting |
 | CH1-11 | **Antonov's notebook**: small, black, worn. Anna has kept it, though it isn't hers. **Antonov died six years before Ch. 1.** **The notebook never names the station.** She doesn't open it in Ch. 1 | Author lines 2026-10-19; Q&A: "Never names the station" | Antonov; Ch. 1+ |
+| CH1-12 | **Ch. 1 ending:** Anna keeps the river reading out of Deka's system by **crumpling it into her pocket** (written on a scrap; neither notebook) | Q&A: "Crumples up into her pocket" | Ch. 1 S4 |

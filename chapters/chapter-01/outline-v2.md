@@ -18,7 +18,7 @@
 
 **S3 — The consultant (about 700).** As v1: Zamir alone at the old gauge house; a wave-1 tech's remark; a look, nothing more.
 
-**S4 — The river (about 1,400).** As v1: evening, Anna and her own battered meter at the Shulgan. Clear like any late-summer mountain river; what's wrong only shows in the reading (plain terms). The Polesia memory. Antonov's claim surfaces and she shuts it down. *Ending:* she doesn't put the reading into Deka's system. **Where it goes instead is the open question below.**
+**S4 — The river (about 1,400).** As v1: evening, Anna and her own battered meter at the Shulgan. Clear like any late-summer mountain river; what's wrong only shows in the reading (plain terms). The Polesia memory. Antonov's claim surfaces and she shuts it down. *Ending:* she doesn't put the reading into Deka's system. She writes it on a scrap and **crumples it into her pocket** (CH1-12).
 
 **Frame (noted, not forced):** the chapter now opens on water as thirst and closes on water as a reading.
 
@@ -36,4 +36,4 @@ The Yulaevs' kitchen and breakfast. The Deka driver and vehicle. Possibly one ot
 - **Numbers:** "six years" (the author's) is the only number in S0 ✓.
 
 ## Open questions
-1. **S4 ending: where does Anna put the reading she keeps from Deka?** (Asked by guided Q&A.)
+1. ~~S4 ending~~ **Answered 2026-10-19 (CH1-12):** she writes the reading on a scrap and **crumples it into her pocket**. Neither notebook.
