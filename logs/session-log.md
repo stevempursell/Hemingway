@@ -59,3 +59,8 @@
 - Full review written: `editorial-review-v5.md`. Strong overall; 1 orphan ("Khasanov thing with your hand"), B1 job beat unpaid, duplicate purified-water comparison, simile cluster in s03, 2 consistency nits. No changes made yet.
 - 2026-10-16: applied all 5 review-v5 fixes in place (5 commits). 5192 words.
 - 2026-10-16: author: fix orphans by cutting, not adding. Reverted review fixes #1 and #3 to deletions. Rule added to review/revise skills, principles, and memory. 5117 words.
+
+## 2026-10-18 — Prologue approved for Draft
+
+- Author: approve v5 for "Draft" of the book, with a cumulative per-chapter notes folder that is not addressed until the end. Added a two-tier approval (approve.sh draft tier, assemble.sh draft, permission rules, hook, CLAUDE.md, approve-chapter skill, session-start).
+- Locked `chapters/prologue/approved-draft.md` (identical to v5, 5,117 words). Filed the author-supplied editorial assessment verbatim in `chapters/prologue/notes/` with an index (cross-references only; nothing acted on). Ledger updated with the prologue's established facts. CM12–CM13 recorded.

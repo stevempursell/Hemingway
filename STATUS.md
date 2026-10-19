@@ -1,16 +1,15 @@
 # STATUS
 
-**Updated:** 2026-10-14 (session 1)
+**Updated:** 2026-10-18
 
-- **Current chapter:** Prologue, "The White Vein"
-- **Phase:** D (Author review). Review-v5 fixes applied in place. **AWAITING AUTHOR READ OF v5**
-- **Latest approved chapter:** none
-- **Drafts:** v1 (5,844 words), v2 (5,161), v3 (5,099), v4 (5,047), and **v5 (current)** in `chapters/prologue/`. Notes are alongside each.
+- **Book stage:** First draft. Chapters are approved for **Draft** one at a time. Each chapter's deferred notes collect in `chapters/<ch>/notes/` for the end-of-draft revision (CM12).
+- **Draft-approved chapters:** **Prologue, "The White Vein"** (`chapters/prologue/approved-draft.md`, from v5, 5,117 words, 2026-10-18). Deferred notes: 1 file (`chapters/prologue/notes/`).
+- **Final-approved chapters:** none.
+- **Current chapter:** Chapter 1 (Anna). Not started.
 
 ## Waiting on the author
-1. His read of draft v5, and his notes. Also whether "Safe" on Khasanov's map has a reason later chapters should honor.
-
-**Working draft:** `draft-v5.md` (5117 words, includes the 2026-10-15 beat-plan-v2 edits). Small fixes go in place.
+1. Go-ahead to plan Chapter 1.
+2. Standing open items that affect Chapter 1: C8 (only one-line beats exist for Ch. 1–20), C2 and C3 (Anna's patronymic and parents), C5 and C6 (Maya/Leena placement; isolated underground vs mission control), O4 (burned-valley slot). See `editorial/open-decisions.md`.
 
 ## Next planned action
-Run `record-feedback` on his notes. If he approves, run `approve-chapter prologue 5`. Otherwise `revise-chapter prologue`: in-place fixes to v5, or `draft-v6.md` only for a major rewrite. Do not start Chapter 1.
+`plan-chapter chapter-01`: read the bible, the causal model, and the ledger (prologue rows), then produce `chapters/chapter-01/outline.md` with guided-Q&A questions. **Do not act on `chapters/prologue/notes/`.**

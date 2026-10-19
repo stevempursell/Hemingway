@@ -32,3 +32,5 @@
 | CM9 | The radioactive Soviet legacy does **not** appear in the prologue yet. It stays a proposal | Q&A: "Not yet" | prologue; P-A |
 | CM10 | Healing is **real but bounded**: subtle, never fixes everything, **weakens as the Resonator fails** (usable to foreshadow the failure) | Q&A: "Yes, bounded" | series; P-B; Leena |
 | CM11 | Prologue beat plan v2 approved; edits made in place in v5 | Q&A: "Approve, make edits" | prologue |
+| CM12 | **Two-tier approval.** A chapter is first **approved for Draft** (`approved-draft.md`, locked) with a **cumulative per-chapter `notes/` folder that isn't addressed until the end** of the first draft. Final approval (`approved.md`) comes after the end-of-draft revision | "I want to approve v5 for "Draft" of the book, with a cumulative notes folder per-chapter that isn't addressed until the end." (2026-10-18) | workflow; all chapters |
+| CM13 | **Prologue v5 approved for Draft** (2026-10-18). Notes deferred: `chapters/prologue/notes/` | same message | prologue |

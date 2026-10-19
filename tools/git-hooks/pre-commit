@@ -7,7 +7,7 @@ bad=""
 while IFS=$'\t' read -r status path1 path2; do
   for path in "$path1" ${path2:+"$path2"}; do
     case "$path" in
-      chapters/*/approved.md|manuscript/*)
+      chapters/*/approved.md|chapters/*/approved-draft.md|manuscript/*)
         [ "$path" = "manuscript/README.md" ] || bad="$bad\n$status $path" ;;
       chapters/*/draft-v[0-9]*.md)
         case "$path" in *-notes.md) continue ;; esac
