@@ -142,7 +142,7 @@ Anna sits near the end of a table by the window, because she always sits by wind
 
 She can also see the gauge house. It squats at the far end of the weir, a concrete box with a corrugated roof, and there is a man standing alone on the walkway beside it, when everyone else at the station, as far as she can tell, is in this room or in the laboratories or asleep. He has a notebook open on the railing and he's looking down at the water going over the lip of the weir, not writing, just looking, the way she looks at water when she's trying to think.
 
-He is older than most of the people here, heavyset, in a canvas jacket that has been patched at the elbows by someone who knew how to patch. From this distance he could be a forestry worker, or someone's uncle who has come to fix the generator. While she watches, he crouches, reaches down through the railing, and lays his flat palm on the concrete of the weir for a long moment, as if he were feeling for a pulse.
+He is older than most of the people here, heavyset, in a canvas jacket that has been patched at the elbows by someone who knew how to patch. From this distance he could be a forestry worker, or someone's uncle who has come to fix the generator. While she watches, he crouches, reaches down through the railing, and lays his flat palm on the concrete of the weir for a long moment.
 
 "Ah," says the technician sitting next to her. He's one of the two from the counter, the one with the coffee joke. He has seen where she's looking. "You've found our consultant."
 
