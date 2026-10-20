@@ -34,8 +34,6 @@ The honey is ferocious. It tastes of smoke and something bitter underneath, like
 
 At eight exactly a horn sounds in the lane. The woman wraps two more pieces of fried bread in a napkin and puts them in Anna's hand before she can protest. At the door, the boy says something else in Bashkir, very seriously, and doesn't translate it himself.
 
-"He says don't fall in," his mother says.
-
 ***
 
 The car is a white Deka pickup with a rack of antennae on the cab and mud to the door handles. The driver is young, with a shaved head and a sunburned neck, and he takes her bags from her and throws them into the back without asking which one has the instruments in it. She winces, and he doesn't notice.
