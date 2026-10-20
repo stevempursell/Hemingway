@@ -124,7 +124,7 @@ Anna scrolls on with one finger, the way she would through anyone's data, lookin
 
 It's a good answer, polished from use, and it answers nothing, and Anna has the feeling that Eva knows exactly how little it answers and doesn't mind her knowing. There's no unkindness in it. If anything there's something like respect, the way one professional acknowledges another's technique.
 
-Further on, between a table of rainfall and a map of the old Soviet borehole network, there's a single page Anna doesn't expect: a regional table from a public health survey, rates of age-related illness in the districts along the river, set against the national figures. The district numbers are lower, not wildly but consistently. Someone has highlighted the column in pale yellow and written nothing beside it. She looks at it for a moment and moves on, because it isn't her field, and because she has learned that a person who comments on everything gets listened to about nothing.
+Further on, between a table of rainfall and a map of the old Soviet borehole network, there's a single page Anna doesn't expect: a regional table from a public health survey, rates of age-related illness in the districts along the river, set against the national figures. The district numbers are lower, not wildly but consistently. She looks at it for a moment and moves on, because it isn't her field, and because she has learned that a person who comments on everything gets listened to about nothing.
 
 "Questions?" Eva says, when she has reached the end.
 
