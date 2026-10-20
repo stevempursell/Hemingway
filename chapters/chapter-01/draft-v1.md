@@ -100,9 +100,7 @@ The office behind it is small and very tidy, and the woman behind the desk stand
 
 "They do that. We've had people come back from those houses heavier than they left." She sits. "I won't keep you long. I like to meet the science people myself, when I can. Otherwise everything you know about us comes through the people at that counter, and they mean well, but."
 
-She doesn't finish the sentence. She doesn't seem to need to.
-
-She turns her own tablet around on the desk so that Anna can see it. On the screen is the station's data pack, the one Anna will be given access to by tonight, Eva says, once IT has finished doing whatever IT does to laptops. She scrolls through it slowly, and Anna watches the pages go by: site maps, sampling schedules, the wave-one baseline. Temperature, flow, turbidity, conductivity, at a string of monitoring points along the river from the weir down. The graphs are clean and well made. Somebody has been careful.
+She doesn't finish the sentence, and doesn't seem to need to. She turns her own tablet around on the desk so that Anna can see it. On the screen is the station's data pack, the one Anna will be given access to by tonight, Eva says, once IT has finished doing whatever IT does to laptops. She scrolls through it slowly, and Anna watches the pages go by: site maps, sampling schedules, and the wave-one baseline, which tracks temperature, flow, turbidity, and conductivity at a string of monitoring points along the river from the weir down. The graphs are clean and well made by somebody careful.
 
 "You'll know better than me what you're looking at," Eva says. "I read your paper on the Polesie floodplain, by the way. The one about delayed return flow. I didn't understand all of it, but I understood that you had stood in the water for most of a year to write it, and I liked that."
 
@@ -124,17 +122,17 @@ Anna scrolls on with one finger, the way she would through anyone's data, lookin
 
 "Access," says Eva. "Some of the river is still being cleared. Old infrastructure, permissions, safety. You'll have everything you need for your work as it becomes available."
 
-It's a good answer. It's polished from use, and it answers nothing, and Anna has the feeling that Eva knows exactly how little it answers and doesn't mind her knowing. There's no unkindness in it. If anything there's something like respect, the way one professional acknowledges another's technique.
+It's a good answer, polished from use, and it answers nothing, and Anna has the feeling that Eva knows exactly how little it answers and doesn't mind her knowing. There's no unkindness in it. If anything there's something like respect, the way one professional acknowledges another's technique.
 
-Further on, between a table of rainfall and a map of the old Soviet borehole network, there's a single page Anna doesn't expect: a regional table from a public health survey, rates of age-related illness in the districts along the river, set against the national figures. The district numbers are lower. Not wildly, but consistently. Someone has highlighted the column in pale yellow and written nothing beside it. She looks at it for a moment and moves on, because it isn't her field, and because she has learned that a person who comments on everything gets listened to about nothing.
+Further on, between a table of rainfall and a map of the old Soviet borehole network, there's a single page Anna doesn't expect: a regional table from a public health survey, rates of age-related illness in the districts along the river, set against the national figures. The district numbers are lower, not wildly but consistently. Someone has highlighted the column in pale yellow and written nothing beside it. She looks at it for a moment and moves on, because it isn't her field, and because she has learned that a person who comments on everything gets listened to about nothing.
 
 "Questions?" Eva says, when she has reached the end.
 
-Anna has a great many. She asks about the sampling intervals, and whether wave one's instruments were cross-calibrated against an independent lab, and how soon she can put her own probes in the water. Eva answers each one directly and well. When she doesn't know something, she says so and writes it down. It is, Anna thinks, a very good performance of having nothing to hide. Or it isn't a performance at all. She can't tell, which bothers her more.
+Anna has a great many. She asks about the sampling intervals, and whether wave one's instruments were cross-calibrated against an independent lab, and how soon she can put her own probes in the water. Eva answers each one directly and well. When she doesn't know something, she says so and writes it down. It is, Anna thinks, a very good performance of having nothing to hide, unless it isn't a performance at all, and she can't tell which, and that bothers her more.
 
 "Thank you, Dr. Morozova," Eva says, standing again at the end. "I'm very glad you're here. I mean that. This river needs people who'll be stubborn about it."
 
-Anna can't decide, walking back out past the poster and the cat and the man from Novosibirsk's second attempt at a photograph, whether that was meant as a welcome or a warning. Possibly it was meant as both. Possibly Eva Reinhardt says it to everyone.
+Anna can't decide, walking back out past the poster and the cat and the man from Novosibirsk's second attempt at a photograph, whether that was meant as a welcome or a warning, or both, or whether Eva Reinhardt simply says it to everyone.
 
 ***
 
