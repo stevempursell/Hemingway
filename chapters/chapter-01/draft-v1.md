@@ -1,6 +1,6 @@
 # CHAPTER ONE
 
-When water is cold it's a knife, and when it's hot it weighs like a boulder, and clear water, pure water, is virtually all Anna thinks about, and never more so than in the moment before waking, when her mouth is dry as chalk and her tongue feels too large for it, and some animal part of her brain is already reaching for a glass that isn't there.
+Anna awakes thinking, as she almost always is, about water. Her mouth is dry as chalk and her tongue feels too large for it, and some animal part of her brain is already reaching for a glass that isn't there.
 
 She surfaces slowly. The room resolves around her in pieces: a low ceiling of dark timber, a narrow window with the curtain not quite closed, a wedge of grey morning light lying across a quilt she doesn't recognize. For a moment she doesn't know where she is, only that she traveled a long way to get here and that her body has not forgiven her for it yet. Then it comes back to her that she is in the Yulaevs' guest room, in a village in Bashkortostan.
 
