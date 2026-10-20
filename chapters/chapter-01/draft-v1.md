@@ -140,7 +140,7 @@ The safety briefing for wave two is held in the canteen at two o'clock, between 
 
 Anna sits near the end of a table by the window, because she always sits by windows, and because from there she can see the water.
 
-She can also see the gauge house. It squats at the far end of the weir, a concrete box with a corrugated roof, and there is a man standing on the walkway beside it. He's alone. Everyone else at the station, as far as she can tell, is in this room or in the laboratories or asleep. He has a notebook open on the railing and he's looking down at the water going over the lip of the weir, not writing, just looking, the way she looks at water when she's trying to think.
+She can also see the gauge house. It squats at the far end of the weir, a concrete box with a corrugated roof, and there is a man standing alone on the walkway beside it, when everyone else at the station, as far as she can tell, is in this room or in the laboratories or asleep. He has a notebook open on the railing and he's looking down at the water going over the lip of the weir, not writing, just looking, the way she looks at water when she's trying to think.
 
 He is older than most of the people here, heavyset, in a canvas jacket that has been patched at the elbows by someone who knew how to patch. From this distance he could be a forestry worker, or someone's uncle who has come to fix the generator. While she watches, he crouches, reaches down through the railing, and lays his flat palm on the concrete of the weir for a long moment, as if he were feeling for a pulse.
 
@@ -167,7 +167,7 @@ When the briefing ends, and the arrivals spill out into the yard blinking at the
 
 The last van down to the village leaves at seven. Before it, with her laptop still somewhere being configured and her own instruments still sealed in their crates pending some form she hasn't been given yet, Anna goes down to the river with the one thing nobody thought to take from her.
 
-It's an old handheld meter, the kind with a probe on a coiled cable, and it has been with her since her doctorate. The case is cracked and mended with tape. The screen has a dead row of pixels across the top, so that every reading has to be read slightly from below, like a word with its hat pulled down. She has newer instruments. She trusts this one.
+It's an old handheld meter, the kind with a probe on a coiled cable, and it has been with her since her doctorate. The case is cracked and mended with tape. The screen has a dead row of pixels across the top, so that every reading has to be read slightly from below, like a word with its hat pulled down. She has newer instruments, but this is the one she trusts.
 
 The map in her pocket has a blue dot for a river access point below the residential units, downstream of the weir, and she follows the path to it through tall grass that soaks her trousers to the knee. The access point turns out to be a gravel bar and a wooden step someone has nailed into the bank. Not far beyond it, a length of red-and-white tape is strung between two stakes and the grass is uncut. On her map, the tape is where the blue stops and the gray begins.
 
@@ -179,13 +179,13 @@ She crouches on the step, uncoils the probe, rinses it in the current, and holds
 
 The number comes up, wavers, and settles. She reads it from below the dead pixels. She takes the probe out, rinses it, and does it again, and then a third time a meter downstream, and a fourth from the slack water at the edge of the bar, where it ought to be higher because still water picks up more of whatever is around it.
 
-It isn't higher. It's the same, near enough. And it's lower, every time, than any figure in the data pack she was shown this morning. It's lower than wave one's best. It's lower than the number she would expect to get from rain.
+It comes out no higher, the same near enough, and every one of the readings is lower than anything in the data pack she was shown this morning, and lower than she would expect to get from rain.
 
 She sits back on her heels. In her head, unhelpfully, she can see the graphs in Eva Reinhardt's tablet, all those careful clean lines, and the gray cells where the downstream sites should have been. She is standing, she realizes, about as close to the first of those sites as the tape will let her.
 
-She puts her free hand into the river, because there's nothing else to do with it. The cold goes through her fingers to the bone at once, the honest cold of a mountain river, nothing strange about it. It feels like water. It looks like water. If she had not had the meter, she would have drunk it.
+She puts her free hand into the river, because there's nothing else to do with it. The cold goes through her fingers to the bone at once, the honest cold of a mountain river, with nothing strange about it to look at or to touch. If she had not had the meter, she would have drunk it.
 
-Something surfaces, then, that she has spent six years being careful not to think about. A lecture hall in Minsk. A projector with a fan that rattled. An old man at the front with a pointer, saying that the deep water under these mountains did not behave like water left to itself, and the sound, building from the back of the hall, of a room deciding to laugh.
+Something surfaces, then, that she has spent six years being careful not to think about: a lecture hall in Minsk with a projector whose fan rattled, and an old man at the front with a pointer, saying that the deep water under these mountains did not behave like water left to itself, while from the back of the hall came the sound of a room deciding to laugh.
 
 She takes her hand out of the river and dries it on her knee.
 
