@@ -53,3 +53,4 @@
 | CH1-12 | **Ch. 1 ending:** Anna keeps the river reading out of Deka's system by **crumpling it into her pocket** (written on a scrap; neither notebook) | Q&A: "Crumples up into her pocket" | Ch. 1 S4 |
 | CH1-13 | **Eva Reinhardt runs Anna's intake in person** in Ch. 1 (replacing the writer's Sokolov choice). Anna and Eva talk about the work | Q&A after the author asked "Is it a failure of the bechdel test that she keeps thinking of a man": "Eva at intake" | Ch. 1 S2 |
 | CH1-14 | **Antonov touches in Ch. 1 cut to two** (the notebook in S0; the claim surfacing in S4). That he worked at the station (CH1-8) stays canon but **isn't voiced in Ch. 1** | Q&A: "Fewer Antonov touches" | Ch. 1 |
+| CH1-15 | Chapter 1 plan v2 approved | "Let's see the draft" (2026-10-19) | Ch. 1 |

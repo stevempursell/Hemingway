@@ -17,7 +17,7 @@ description: Phase B. Write the full chapter prose from an author-approved plan,
 - POV discipline: third-person limited. Only what the POV character perceives, knows, or plausibly infers. No narrator glimpses of the future.
 - Vary sentence and paragraph length by what the moment needs. Check every paragraph ending: is it a reflexive ominous or philosophical button? If so, end on something concrete instead, or just stop.
 - No one-line paragraphs used as faked intensity. Use them only when the beat actually needs the isolation.
-- Never paste author example lines. See CLAUDE.md §3.
+- Author lines he gives are usable; illustrations and beat-sheet sample lines are not. See CLAUDE.md §3.
 - **Plan details are permissions, not obligations.** After each scene, scan for any detail that's there because the plan, the bible, or an author answer mentioned it: gear, procedures, backstory, logistics. Keep it only if the character would notice or use it right now. Cut any sentence that explains an object's function or justifies how a character knows something, unless the moment demands it.
 
 ## Mechanics

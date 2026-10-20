@@ -67,3 +67,4 @@
 - 2026-10-18: Ch. 1 planned via guided Q&A (CH1-1–CH1-8 recorded). `chapters/chapter-01/outline.md` awaiting approval.
 - 2026-10-19: author supplied the Ch. 1 waking scene (filed verbatim). Decisions CH1-9 (present tense for Anna), CH1-10 (Deka billets; the Yulaevs), CH1-11 (the notebook never names the station; Antonov died 6 years ago). Open T1 (Ben/Zamir tense). Plan v2 written.
 - 2026-10-19: author raised the Bechdel test. Ch. 1 plan v2 amended in place: Eva at intake (CH1-13), Antonov touches 3→2 (CH1-14). Lesson recorded; plan-chapter check added.
+- 2026-10-19: Ch. 1 plan approved ("Let's see the draft"). Drafted v1 in 4 scene files, 4,489 words; author text verbatim; editorial review v1 (5 small cuts proposed, none applied).

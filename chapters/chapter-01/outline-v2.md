@@ -1,6 +1,6 @@
 # Chapter 1 — Chapter Plan v2
 
-**Status: AWAITING AUTHOR APPROVAL.** No prose until approved. Supersedes `outline.md` v1, which is kept as the record. Everything in v1 stands unless changed here.
+**Status: APPROVED by the author 2026-10-19 ("Let's see the draft").** Supersedes `outline.md` v1, which is kept as the record. Supersedes `outline.md` v1, which is kept as the record. Everything in v1 stands unless changed here.
 
 ## What changed from v1 (2026-10-19)
 - **Tense: present** for Anna (CH1-9). The prologue stays past.
