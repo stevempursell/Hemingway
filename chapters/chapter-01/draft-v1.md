@@ -38,7 +38,7 @@ At eight exactly a horn sounds in the lane. The woman wraps two more pieces of f
 
 ***
 
-The car is a white Deka pickup with a rack of antennae on the cab and mud to the door handles. The driver is young, with a shaved head and a sunburned neck, and he takes her bags from her and throws them into the back without asking which one has the instruments in it. She winces. He doesn't notice.
+The car is a white Deka pickup with a rack of antennae on the cab and mud to the door handles. The driver is young, with a shaved head and a sunburned neck, and he takes her bags from her and throws them into the back without asking which one has the instruments in it. She winces, and he doesn't notice.
 
 There is already someone in the back seat, a heavy, gray-haired man in a fleece with a conference lanyard still around his neck, from some other year, some other city. He shakes her hand across the seat and tells her his name, which she forgets at once, and that he is a geophysicist from Novosibirsk, which she keeps.
 
@@ -58,11 +58,11 @@ At home, the rivers never looked like anything. The Pina and the Pripyat lay bro
 
 The man from Novosibirsk has moved on from the toilets to the food. The driver turns the radio up a notch, not quite rudely.
 
-She thinks, because there's nothing to stop her thinking it on a road like this, about the contract in her bag. It's a good contract. It is a better contract than anyone has offered her in a long time, and she knows why. Deka wanted a hydrologist with field experience in wet, difficult, post-Soviet landscapes who would sign a nondisclosure agreement without reading it twice. She read it four times. She signed it anyway. She tells herself it's because the money is real and the science might be, and because at her age you don't get many more chances to be in the room where something gets measured for the first time. Some of that is even true.
+She thinks, because there's nothing to stop her thinking it on a road like this, about the contract in her bag. It's a better contract than anyone has offered her in a long time, and she knows why. Deka wanted a hydrologist with field experience in wet, difficult, post-Soviet landscapes who would sign a nondisclosure agreement without reading it twice. She read it four times and signed it anyway. She tells herself it's because the money is real and the science might be, and because at her age you don't get many more chances to be in the room where something gets measured for the first time. Some of that is even true.
 
-The valley narrows. The river cuts closer under the road. Then the trees fall back and the station is there.
+The valley narrows and the river cuts in close under the road, and then the trees fall back and the station is there.
 
-It sits on a terrace above the water where the valley widens briefly before closing again, and her first impression is of a place that has been dead for a long time and has only recently been told otherwise. There's the old station itself, a long, low block of Soviet concrete gone the color of wet ash, half its windows boarded and half replaced with new glass that looks too clean, as if someone had fitted false teeth to an old man. Below it, at the river, a concrete weir with a gauge house squatting on one end, a rusted cableway strung across the water above it. Around all of this, and outnumbering it, Deka. Rows of white prefabricated units on blocks. A generator shed humming. Shipping containers stacked on each other, painted in the company's blue. A mast with a dish on it. A wire fence, new and tall, with a gate and a guard hut and a sign Anna can't read yet but can guess at.
+It sits on a terrace above the water where the valley widens briefly before closing again, and her first impression is of a place that has been dead for a long time and has only recently been told otherwise. There's the old station itself, a long, low block of Soviet concrete gone the color of wet ash, half its windows boarded and half replaced with new glass that looks too clean, as if someone had fitted false teeth to an old man. Below it, at the river, a concrete weir with a gauge house squatting on one end, a rusted cableway strung across the water above it. Around all of it, and outnumbering it, Deka has set down rows of white prefabricated units on blocks, a humming generator shed, shipping containers painted in the company's blue and stacked on one another, and a mast with a dish on it, and has run a tall new wire fence around the lot, with a gate, a guard hut, and a sign Anna can't read yet but can guess at.
 
 "Home sweet home," says the man from Novosibirsk.
 
