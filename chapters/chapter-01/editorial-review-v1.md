@@ -2,6 +2,8 @@
 
 **Reviewed:** 2026-10-19. `draft-v1.md`, **4,489 words**. Same-session review; the counts are mechanical. Per the cut-first rule, every fix below is a deletion unless stated otherwise.
 
+**Outcome 2026-10-19:** all five cuts applied in place (author: "Proceed").
+
 ## Verdicts
 | # | Criterion | Verdict |
 |---|---|---|
