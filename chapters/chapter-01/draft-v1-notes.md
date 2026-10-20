@@ -25,4 +25,13 @@ The Yulaev woman (unnamed) and a boy of about six; fried bread, sour cream, dark
 - The Antonov touches are two (S0 notebook; S4 lecture memory, unnamed) per CH1-14.
 
 ## In-place edits
-*(none yet)*
+
+- **2026-10-19, fragment-run sweep** (author: "phrases like this scream 'this is AI written!!'"). Four commits (S0 `a09e820`, S1 `d96fe40`, S2 `de5a3a8`, S3–S4 latest). About 18 instances rewritten as real sentences. **Author-supplied lines changed** (S0):
+  - "Water. Pure, crystal clear. When it's cold, it's a knife. When it's hot, it weighs like a boulder." → "When water is cold it's a knife, and when it's hot it weighs like a boulder, and clear water, pure water, is virtually all Anna thinks about…"
+  - "Then it comes back. The Yulaev house. The guest room. Bashkortostan." (the flagged line) → joined to the previous paragraph: "Then it comes back to her that she is in the Yulaevs' guest room, in a village in Bashkortostan."
+  - "Only then does she reach for the notebook." (one-line paragraph) → merged into the next paragraph.
+  - "Small, black, the cover softened with age and handling. Lev Antonov's notebook. Not hers." → "It's small and black, its cover softened with age and handling, and it is Lev Antonov's, not hers."
+  - "She doesn't open it. She just holds it a moment…" → "She doesn't open it, only holds it a moment…"
+  - Writer's own lines rewritten: "She winces. He doesn't notice."; "It's a good contract. It is a better contract…"; "She read it four times. She signed it anyway."; "The valley narrows. The river cuts…"; the Deka fragment list at the station; "She doesn't finish… She doesn't seem to need to."; the data-pack fragment list; "It's a good answer. It's polished…"; "Not wildly, but consistently."; "Or it isn't a performance at all."; "Possibly… Possibly…"; "He's alone."; "She has newer instruments. She trusts this one."; the "lower than / lower than" run; "It feels like water. It looks like water."; the Minsk noun-fragment run.
+  - Kept on purpose: dialogue ("Sit. Eat."), the poster ("Responsibility. Clarity. Endurance."), the badge, and lone short sentences in normal flow.
+- Word count after the sweep: 4,513.

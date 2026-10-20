@@ -5,7 +5,7 @@
 - **Book stage:** First draft. Chapters are approved for **Draft** one at a time. Each chapter's deferred notes collect in `chapters/<ch>/notes/` for the end-of-draft revision (CM12).
 - **Draft-approved chapters:** **Prologue, "The White Vein"** (`chapters/prologue/approved-draft.md`, from v5, 5,117 words, 2026-10-18). Deferred notes: 1 file (`chapters/prologue/notes/`).
 - **Final-approved chapters:** none.
-- **Current chapter:** Chapter 1 (Anna). **Phase D: draft v1 (4,489 words) and editorial review v1 done. AWAITING AUTHOR READ.**
+- **Current chapter:** Chapter 1 (Anna). **Phase D: draft v1 (4,513 words after the fragment-run sweep).** The review's 5 cuts are not yet applied. AWAITING AUTHOR READ.
 
 ## Waiting on the author
 1. His read of Ch. 1 draft v1, and the 5 small cuts in `editorial-review-v1.md`.

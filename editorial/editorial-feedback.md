@@ -158,3 +158,14 @@ Added a "first-mention / orphan" check to the `revise-chapter` and `editorial-re
 | **Don't let Anna's world and interior be saturated by men.** Her motive (Antonov) is professional and ethical, which is fine, but a chapter's speaking roles and interior shouldn't all point at men | Project (likely Universal) | When planning, count who speaks and what the POV character's interior is about. Give Anna material that's hers alone (Polesia, her science, her stake). Where the story allows, have women talk to each other about the work. Applied: Eva at intake (CH1-13), two Antonov touches instead of three (CH1-14) | Not a quota. Some chapters will legitimately be male-heavy (e.g. Ben's). Use it as a planning check, not a rule |
 
 Added a cast and interior-balance line to the `plan-chapter` checks.
+
+### 2026-10-19 — Chapter 1 draft v1
+
+> "So, phrases like this scream "this is AI written!!": Then it comes back. The Yulaev house. The guest room. Bashkortostan."
+
+| Note | Class | In practice | When it doesn't apply |
+|---|---|---|---|
+| **Staccato fragment runs read as AI prose.** That covers noun-fragment lists, paired short sentences staged as beats, corrective pairs, and echo pairs | Universal | Rewrite as real sentences. The reviewer runs a fragment detector (sentences of four words or fewer in narration) and judges each hit | Diegetic text, dialogue, a single deliberate short sentence |
+| **The line came from the author's own supplied snippet.** Author lines get the same AI-pattern scrutiny as the writer's (extends 2026-10-14, "usable isn't mandatory") | Universal (process) | Before using supplied text, run the same checks on it, and list any edits to his lines in the notes | n/a |
+
+RECURRING: the voice profile flagged tricolons and doublets (C2) at setup, and the prologue review counted clipped one-liners. Now enforced with a detector in `editorial-review`.

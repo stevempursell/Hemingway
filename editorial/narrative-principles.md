@@ -44,6 +44,7 @@ The writer knows the whole series. The characters don't. Before every scene, ans
 - Review question: **does it read like a novel, or like an expanded synopsis?**
 
 ## 5. Mechanical patterns to avoid (reviewer counts these)
+- **Staccato fragment runs** (author, 2026-10-19: "phrases like this scream 'this is AI written!!'", flagging *"Then it comes back. The Yulaev house. The guest room. Bashkortostan."*). That covers lists of noun fragments ("The X. The Y. The Z."), paired short sentences staged as a beat ("She winces. He doesn't notice."), corrective pairs ("It isn't higher. It's the same."), and echo pairs ("It feels like water. It looks like water."). Write a real sentence instead. **This applies to author-supplied text too:** his lines get the same scrutiny. Exceptions: diegetic text (a poster's slogan), dialogue, and one deliberate rhythmic short sentence where the moment needs it.
 - Paragraphs ending on an ominous or epigrammatic "button."
 - "Not X. Y." / "not X, but Y" reveals; "something [adjective]" vagueness ("something enormous," "something wrong").
 - Tricolons and rule-of-three lists by reflex.
