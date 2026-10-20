@@ -152,7 +152,7 @@ He is older than most of the people here, heavyset, in a canvas jacket that has 
 
 "On what?"
 
-"Anything. Water spirits. The old days. Stones that sing." He grins. "Ask him the time and he'll tell you about the Ice Age. We had him in the planning meetings for the first month. Then we stopped having him in the planning meetings."
+"Anything. Water spirits. The old days." He grins. "Ask him the time and he'll tell you about the Ice Age. We had him in the planning meetings for the first month. Then we stopped having him in the planning meetings."
 
 "Why?"
 
