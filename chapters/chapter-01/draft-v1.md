@@ -1,20 +1,16 @@
 # CHAPTER ONE
 
-Water. Pure, crystal clear. When it's cold, it's a knife. When it's hot, it weighs like a boulder. It is virtually all Anna thinks about, and never more so than in the moment before waking, when her mouth is dry as chalk and her tongue feels too large for it, and some animal part of her brain is already reaching for a glass that isn't there.
+When water is cold it's a knife, and when it's hot it weighs like a boulder, and clear water, pure water, is virtually all Anna thinks about, and never more so than in the moment before waking, when her mouth is dry as chalk and her tongue feels too large for it, and some animal part of her brain is already reaching for a glass that isn't there.
 
-She surfaces slowly. The room resolves around her in pieces: a low ceiling of dark timber, a narrow window with the curtain not quite closed, a wedge of grey morning light lying across a quilt she doesn't recognize. For a moment she doesn't know where she is, only that she traveled a long way to get here and that her body has not forgiven her for it yet.
-
-Then it comes back. The Yulaev house. The guest room. Bashkortostan.
+She surfaces slowly. The room resolves around her in pieces: a low ceiling of dark timber, a narrow window with the curtain not quite closed, a wedge of grey morning light lying across a quilt she doesn't recognize. For a moment she doesn't know where she is, only that she traveled a long way to get here and that her body has not forgiven her for it yet. Then it comes back to her that she is in the Yulaevs' guest room, in a village in Bashkortostan.
 
 She sits up carefully, the way you do in an unfamiliar bed, testing the give of the mattress before committing her weight to it. Somewhere below her, through floorboards that don't quite meet the walls, she can hear the low domestic clatter of a kitchen already awake — a pan set down, water running, a child's voice asking something in Bashkir that gets answered in the same language, too fast for her to follow.
 
 She finds a glass on the nightstand she hadn't noticed in the dark last night. Someone left it for her. The water in it is room temperature, a little flat, and she drinks all of it anyway, in three long swallows, before she lets herself think about anything else.
 
-Only then does she reach for the notebook.
+Only then does she reach for the notebook, which is on the nightstand too, where she put it before sleep, out of habit more than intention — she does this everywhere, hotel rooms, layovers, the back of trucks. It's small and black, its cover softened with age and handling, and it is Lev Antonov's, not hers. She has never quite let herself think of it as hers, even six years on, even though no one else would know what to do with it and no one else has asked for it back.
 
-It's on the nightstand too, where she put it before sleep, out of habit more than intention — she does this everywhere, hotel rooms, layovers, the back of trucks. Small, black, the cover softened with age and handling. Lev Antonov's notebook. Not hers. She has never quite let herself think of it as hers, even six years on, even though no one else would know what to do with it and no one else has asked for it back.
-
-She doesn't open it. She just holds it a moment, the way you'd hold something to check it's still there, and then she gets up to face the day.
+She doesn't open it, only holds it a moment, the way you'd hold something to check it's still there, and then she gets up to face the day.
 
 The stairs are steep enough that she takes them sideways, a hand on the wall. The kitchen at the bottom is warm and smells of fried dough and woodsmoke, and it's smaller than it sounded from upstairs. A woman in a cardigan is at the stove with her back to the door. A boy of perhaps six sits at the table with a spoon in his fist, watching the doorway as if he has been waiting for Anna specifically and is a little disappointed by what has arrived.
 
@@ -22,7 +18,7 @@ The stairs are steep enough that she takes them sideways, a hand on the wall. Th
 
 The woman turns, smiles, and points her at a chair with the spatula. "Sit. Eat. Your car comes at eight."
 
-There's already a plate. Flat golden circles of fried bread, a saucer of sour cream, and a jar of honey so dark it looks like engine oil until the light catches it. Tea arrives without anyone asking whether she wants any. Anna says thank you twice, and the second one is ignored as excessive.
+There's already a plate of fried bread in flat golden circles, with a saucer of sour cream and a jar of honey so dark it looks like engine oil until the light catches it. Tea arrives without anyone asking whether she wants any. Anna says thank you twice, and the second one is ignored as excessive.
 
 The boy says something to his mother in Bashkir. His mother answers without turning around. Whatever it is, it makes him put his spoon down and stare at Anna with fresh interest.
 
